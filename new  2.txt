@@ -1,0 +1,2038 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Grand Theft Auto V on Steam</title>
+	<link rel="canonical" href="http://store.steampowered.com/app/271590/" />
+	<link href="http://store.akamai.steamstatic.com/public/shared/css/motiva_sans.css?v=ful_LJT3NQYl" rel="stylesheet" type="text/css" >
+<link href="http://store.akamai.steamstatic.com/public/shared/css/shared_global.css?v=5vPE_tlCnDe-" rel="stylesheet" type="text/css" >
+<link href="http://store.akamai.steamstatic.com/public/shared/css/buttons.css?v=jYz43E7pJeZT" rel="stylesheet" type="text/css" >
+<link href="http://store.akamai.steamstatic.com/public/css/v6/store.css?v=HfY5JnO4NVZA" rel="stylesheet" type="text/css" >
+	<link href="http://store.akamai.steamstatic.com/public/shared/css/user_reviews.css?v=IWfNivBmDemP" rel="stylesheet" type="text/css" >
+	<link href="http://store.akamai.steamstatic.com/public/shared/css/store_game_shared.css?v=6_yeWw6QGQlw" rel="stylesheet" type="text/css" >
+	<link href="http://store.akamai.steamstatic.com/public/css/v6/game.css?v=WwTIGYGHMPj1" rel="stylesheet" type="text/css" >
+	<link href="http://store.akamai.steamstatic.com/public/css/v6/recommended.css?v=QH8NOntvoYZe" rel="stylesheet" type="text/css" >
+			<link href="http://store.akamai.steamstatic.com/public/shared/css/apphub.css?v=Pu-n32y8OVPX" rel="stylesheet" type="text/css" >
+		<script type="text/javascript" src="http://store.akamai.steamstatic.com/public/shared/javascript/jquery-1.8.3.min.js?v=.TZ2NKhB-nliU"></script>
+<script type="text/javascript">$J = jQuery.noConflict();</script><script type="text/javascript" src="http://store.akamai.steamstatic.com/public/shared/javascript/tooltip.js?v=.4KS5V2wEvZEQ"></script>
+
+<script type="text/javascript" src="http://store.akamai.steamstatic.com/public/shared/javascript/shared_global.js?v=Sub1IZ3tdXHu&amp;l=english"></script>
+
+<script type="text/javascript" src="http://store.akamai.steamstatic.com/public/javascript/main.js?v=G0EYRqlsSyxm&amp;l=english"></script>
+
+<script type="text/javascript" src="http://store.akamai.steamstatic.com/public/javascript/dynamicstore.js?v=-W1hhAO7CYNh&amp;l=english"></script>
+
+<script type="text/javascript" src="http://store.akamai.steamstatic.com/public/shared/javascript/jquery.appear.js?v=.Ppa7qtbccRVO"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function($) { $J.data( document, 'x_readytime', new Date().getTime() ); 
+$J.data( document, 'x_oldref', GetNavCookie() ); 
+$('.tooltip').v_tooltip(); $('.supernav').v_tooltip({'location':'bottom', 'tooltipClass': 'supernav_content', 'offsetY':-4, 'offsetX': 1, 'horizontalSnap': 4, 'tooltipParent': '#supernav'});
+window.BindStoreTooltip = function( $Selector ) { $Selector.v_tooltip( {'tooltipClass': 'store_tooltip', 'dataName': 'storeTooltip' } ); };
+BindStoreTooltip( $('[data-store-tooltip]') ); 
+});</script><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33786258-1']);
+  _gaq.push(['_setSampleRate', '0.4']);
+  _gaq.push(['_setCustomVar', 1, 'Logged In', 'false', 2]);
+  _gaq.push(['_setCustomVar', 2, 'Client Type', 'External', 2]);
+  _gaq.push(['_setCustomVar', 3, 'Cntrlr', 'application', 3]);
+  _gaq.push(['_setCustomVar', 4, 'Method', "application\/app", 3]);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_setSessionCookieTimeout', 900000]);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+	<script type="text/javascript" src="http://store.akamai.steamstatic.com/public/javascript/gamehighlightplayer.js?v=-n0w1xTJ8VlR&amp;l=english"></script>
+	<script type="text/javascript" src="http://store.akamai.steamstatic.com/public/shared/javascript/user_reviews.js?v=wElGfRd1klp0&amp;l=english"></script>
+	<script type="text/javascript" src="http://store.akamai.steamstatic.com/public/shared/javascript/dselect.js?v=OP1OqNQ9PW4e&amp;l=english"></script>
+	<script type="text/javascript" src="http://store.akamai.steamstatic.com/public/javascript/app_tagging.js?v=3vQ1WmJ-T6hD&amp;l=english"></script>
+	<script type="text/javascript" src="http://store.akamai.steamstatic.com/public/javascript/game.js?v=_P8DwVwlF4gx&amp;l=english"></script>
+	<script type="text/javascript" src="http://store.akamai.steamstatic.com/public/javascript/swfobject.js?v=.IJPsm1EB98JP"></script>
+	<link rel="image_src" href="http://cdn.akamai.steamstatic.com/steam/apps/271590/header.jpg?t=1434402788">
+	<meta name="description" content="Due to a surge in high-end crime across southern San Andreas, demand for luxury goods and services is at an all-time high. Upscale merchants of all kinds are scrambling to fill their inventories to serve the newly wealthy as part of the Ill-Gotten Gains Update.">
+	<script type="text/javascript">
+
+	GStoreItemData.AddStoreItemData(
+		{"12120":{"name":"Grand Theft Auto: San Andreas","discount_block":"<div class=\"discount_block  no_discount\"><div class=\"discount_prices no_discount\"><div class=\"discount_final_price\">&#36;14.99 USD<\/div><\/div><\/div>","small_capsulev5":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/12120\/capsule_184x69.jpg?t=1422890578","os_windows":true,"os_macos":true},"12220":{"name":"Grand Theft Auto: Episodes from Liberty City","discount_block":"<div class=\"discount_block  no_discount\"><div class=\"discount_prices no_discount\"><div class=\"discount_final_price\">&#36;19.99 USD<\/div><\/div><\/div>","small_capsulev5":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/12220\/capsule_184x69.jpg?t=1426687062","os_windows":true},"307690":{"name":"Sleeping Dogs: Definitive Edition","discount_block":"<div class=\"discount_block \"><div class=\"discount_pct\">-75%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">&#36;29.99<\/div><div class=\"discount_final_price\">&#36;7.49 USD<\/div><\/div><\/div>","small_capsulev5":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/307690\/capsule_184x69.jpg?t=1426519859","os_windows":true,"discount":true},"12210":{"name":"Grand Theft Auto IV","discount_block":"<div class=\"discount_block  no_discount\"><div class=\"discount_prices no_discount\"><div class=\"discount_final_price\">&#36;19.99 USD<\/div><\/div><\/div>","small_capsulev5":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/12210\/capsule_184x69.jpg?t=1433790100","os_windows":true},"8190":{"name":"Just Cause 2","discount_block":"<div class=\"discount_block  no_discount\"><div class=\"discount_prices no_discount\"><div class=\"discount_final_price\">&#36;14.99 USD<\/div><\/div><\/div>","small_capsulev5":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/8190\/capsule_184x69.jpg?t=1424690459","os_windows":true},"301910":{"name":"Saints Row: Gat out of Hell","discount_block":"<div class=\"discount_block  no_discount\"><div class=\"discount_prices no_discount\"><div class=\"discount_final_price\">&#36;19.99 USD<\/div><\/div><\/div>","small_capsulev5":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/301910\/capsule_184x69.jpg?t=1434955599","os_windows":true},"50130":{"name":"Mafia II","discount_block":"<div class=\"discount_block  no_discount\"><div class=\"discount_prices no_discount\"><div class=\"discount_final_price\">&#36;29.99 USD<\/div><\/div><\/div>","small_capsulev5":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/50130\/capsule_184x69.jpg?t=1392368048","os_windows":true},"12110":{"name":"Grand Theft Auto: Vice City","discount_block":"<div class=\"discount_block  no_discount\"><div class=\"discount_prices no_discount\"><div class=\"discount_final_price\">&#36;9.99 USD<\/div><\/div><\/div>","small_capsulev5":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/12110\/capsule_184x69.jpg?t=1426271540","os_windows":true,"os_macos":true},"12100":{"name":"Grand Theft Auto III","discount_block":"<div class=\"discount_block  no_discount\"><div class=\"discount_prices no_discount\"><div class=\"discount_final_price\">&#36;9.99 USD<\/div><\/div><\/div>","small_capsulev5":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/12100\/capsule_184x69.jpg?t=1426687145","os_windows":true,"os_macos":true},"225540":{"name":"Just Cause\u2122 3","discount_block":"<div class=\"discount_block \"><div class=\"discount_pct\">-10%<\/div><div class=\"discount_prices\"><div class=\"discount_original_price\">&#36;59.99<\/div><div class=\"discount_final_price\">&#36;53.99 USD<\/div><\/div><\/div>","small_capsulev5":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/225540\/capsule_184x69.jpg?t=1435676438","os_windows":true,"coming_soon":true,"discount":true},"55230":{"name":"Saints Row: The Third","discount_block":"<div class=\"discount_block  no_discount\"><div class=\"discount_prices no_discount\"><div class=\"discount_final_price\">&#36;14.99 USD<\/div><\/div><\/div>","small_capsulev5":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/55230\/capsule_184x69.jpg?t=1423759475","os_windows":true},"113400":{"name":"APB Reloaded","discount_block":"<div class=\"discount_block  no_discount\"><div class=\"discount_prices no_discount\"><div class=\"discount_final_price\">Free to Play<\/div><\/div><\/div>","small_capsulev5":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/113400\/capsule_184x69.jpg?t=1431366436","os_windows":true}},
+		{}	);
+	GStoreItemData.AddNavParams( {
+		recommended: "1_5_9__300",
+	} );
+
+	$J( function() {
+		var $Expander = $J('#devnotes_expander');
+		if( $Expander.length && $Expander.height() < parseInt( $Expander.css('max-height') ) ) {
+			$J('#devnotes_more').hide();
+		}
+
+					try {
+				if ( typeof _gaq != "undefined" && _gaq )
+				{
+					_gaq.push( ['app._setAccount', "UA-15984839-37" ] );
+					_gaq.push( ['app._setDomainName', 'store.steampowered.com' ] );
+					_gaq.push( ['app._setAllowLinker', true ] );
+					_gaq.push( ['_gat._anonymizeIp'] );
+					_gaq.push( ['app._trackPageview' ] );
+				}
+			}
+			catch ( e ) {}
+		
+				InitAutocollapse();
+	} );
+	GDynamicStore.OnReady( function() {
+		RenderMoreLikeThisBlock( ["12120","12220","307690","12210","8190","301910","50130","12110","12100","225540","55230","113400"] );
+	});
+
+	
+	</script>
+</head>
+
+<body class="v6 app game_bg">
+
+<div id="global_header">
+	<div class="content">
+	
+		<div class="logo">
+			<span id="logo_holder">
+				<a href="http://store.steampowered.com/">
+					<img src="http://store.akamai.steamstatic.com/public/images/v5/globalheader_logo.png" width="176" height="44">
+				</a>
+			</span>
+			<!--[if lt IE 7]>
+			<style type="text/css">
+			#logo_holder img { filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0); }
+			#logo_holder { display: inline-block; width: 176px; height: 44px; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://store.akamai.steamstatic.com/public/images/v5/globalheader_logo.png'); }
+			</style>
+			<![endif]-->
+		</div>
+
+		<div style="position: absolute; left: 200px;" id="supernav">
+	<a class="menuitem supernav" href="http://store.steampowered.com/" data-tooltip-content="
+		<a class=&quot;submenuitem&quot; href=&quot;http://store.steampowered.com/&quot;>Featured</a>
+		<a class=&quot;submenuitem&quot; href=&quot;http://store.steampowered.com/explore/&quot;>Explore</a>
+		<a class=&quot;submenuitem&quot; href=&quot;http://store.steampowered.com/curators/&quot;>Curators</a>
+		<a class=&quot;submenuitem&quot; href=&quot;http://steamcommunity.com/my/wishlist/&quot;>Wishlist</a>
+		<a class=&quot;submenuitem&quot; href=&quot;http://store.steampowered.com/news/&quot;>News</a>
+		<a class=&quot;submenuitem&quot; href=&quot;http://store.steampowered.com/stats/&quot;>STATS</a>
+	">
+		STORE	</a>
+
+
+	<a class="menuitem supernav" style="display: block" href="http://steamcommunity.com/" data-tooltip-content="
+					<a class=&quot;submenuitem&quot; href=&quot;http://steamcommunity.com/&quot;>Home</a>
+					<a class=&quot;submenuitem&quot; href=&quot;http://steamcommunity.com/discussions/&quot;>DISCUSSIONS</a>
+					<a class=&quot;submenuitem&quot; href=&quot;http://steamcommunity.com/workshop/&quot;>Workshop</a>
+					<a class=&quot;submenuitem&quot; href=&quot;http://steamcommunity.com/greenlight/&quot;>Greenlight</a>
+					<a class=&quot;submenuitem&quot; href=&quot;http://steamcommunity.com/market/&quot;>Market</a>
+					<a class=&quot;submenuitem&quot; href=&quot;http://steamcommunity.com/?subsection=broadcasts&quot;>Broadcasts</a>
+													">
+
+		COMMUNITY	</a>
+
+	
+
+	
+	<a class="menuitem" href="http://store.steampowered.com/about/">
+		ABOUT	</a>
+
+	<a class="menuitem" href="https://help.steampowered.com/">
+		SUPPORT	</a>
+</div>
+<script type="text/javascript">
+	jQuery(document).ready(function($) { 
+		$('.tooltip').v_tooltip();
+		$('.supernav').v_tooltip({'location':'bottom', 'tooltipClass': 'supernav_content', 'offsetY':-4, 'offsetX': 1, 'horizontalSnap': 4, 'tooltipParent': '#supernav', 'correctForScreenSize': false});
+	});
+</script>
+		<div id="global_actions">
+						<div id="global_action_menu">
+									<div class="header_installsteam_btn header_installsteam_btn_green">
+						<div class="header_installsteam_btn_leftcap"></div>
+						<div class="header_installsteam_btn_rightcap"></div>
+						<a class="header_installsteam_btn_content" href="http://store.steampowered.com/about/?snr=1_5_9__11">
+							Install Steam						</a>
+					</div>
+				
+				
+									<a class="global_action_link" href="http://store.steampowered.com/login/?snr=1_5_9__11">login</a>
+					&nbsp;|&nbsp; 
+					<span class="pulldown global_action_link" id="language_pulldown" onclick="ShowMenu( this, 'language_dropdown', 'right' );">language</span>
+					<div class="popup_block_new" id="language_dropdown" style="display: none;">
+						<div class="popup_body popup_menu">
+																							<a class="popup_menu_item tight" href="?l=bulgarian" onclick="ChangeLanguage( 'bulgarian' ); return false;">Български (Bulgarian)</a>
+																							<a class="popup_menu_item tight" href="?l=czech" onclick="ChangeLanguage( 'czech' ); return false;">čeština (Czech)</a>
+																							<a class="popup_menu_item tight" href="?l=danish" onclick="ChangeLanguage( 'danish' ); return false;">Dansk (Danish)</a>
+																							<a class="popup_menu_item tight" href="?l=dutch" onclick="ChangeLanguage( 'dutch' ); return false;">Nederlands (Dutch)</a>
+																															<a class="popup_menu_item tight" href="?l=finnish" onclick="ChangeLanguage( 'finnish' ); return false;">Suomi (Finnish)</a>
+																							<a class="popup_menu_item tight" href="?l=french" onclick="ChangeLanguage( 'french' ); return false;">Français (French)</a>
+																							<a class="popup_menu_item tight" href="?l=greek" onclick="ChangeLanguage( 'greek' ); return false;">Ελληνικά (Greek)</a>
+																							<a class="popup_menu_item tight" href="?l=german" onclick="ChangeLanguage( 'german' ); return false;">Deutsch (German)</a>
+																							<a class="popup_menu_item tight" href="?l=hungarian" onclick="ChangeLanguage( 'hungarian' ); return false;">Magyar (Hungarian)</a>
+																							<a class="popup_menu_item tight" href="?l=italian" onclick="ChangeLanguage( 'italian' ); return false;">Italiano (Italian)</a>
+																							<a class="popup_menu_item tight" href="?l=japanese" onclick="ChangeLanguage( 'japanese' ); return false;">日本語 (Japanese)</a>
+																															<a class="popup_menu_item tight" href="?l=koreana" onclick="ChangeLanguage( 'koreana' ); return false;">한국어 (Korean)</a>
+																							<a class="popup_menu_item tight" href="?l=norwegian" onclick="ChangeLanguage( 'norwegian' ); return false;">Norsk (Norwegian)</a>
+																							<a class="popup_menu_item tight" href="?l=polish" onclick="ChangeLanguage( 'polish' ); return false;">Polski (Polish)</a>
+																							<a class="popup_menu_item tight" href="?l=portuguese" onclick="ChangeLanguage( 'portuguese' ); return false;">Português (Portuguese)</a>
+																							<a class="popup_menu_item tight" href="?l=brazilian" onclick="ChangeLanguage( 'brazilian' ); return false;">Português-Brasil (Portuguese-Brazil)</a>
+																							<a class="popup_menu_item tight" href="?l=russian" onclick="ChangeLanguage( 'russian' ); return false;">Русский (Russian)</a>
+																							<a class="popup_menu_item tight" href="?l=romanian" onclick="ChangeLanguage( 'romanian' ); return false;">Română (Romanian)</a>
+																							<a class="popup_menu_item tight" href="?l=schinese" onclick="ChangeLanguage( 'schinese' ); return false;">简体中文 (Simplified Chinese)</a>
+																							<a class="popup_menu_item tight" href="?l=spanish" onclick="ChangeLanguage( 'spanish' ); return false;">Español (Spanish)</a>
+																							<a class="popup_menu_item tight" href="?l=swedish" onclick="ChangeLanguage( 'swedish' ); return false;">Svenska (Swedish)</a>
+																							<a class="popup_menu_item tight" href="?l=tchinese" onclick="ChangeLanguage( 'tchinese' ); return false;">繁體中文 (Traditional Chinese)</a>
+																							<a class="popup_menu_item tight" href="?l=thai" onclick="ChangeLanguage( 'thai' ); return false;">ไทย (Thai)</a>
+																							<a class="popup_menu_item tight" href="?l=turkish" onclick="ChangeLanguage( 'turkish' ); return false;">Türkçe (Turkish)</a>
+																							<a class="popup_menu_item tight" href="?l=ukrainian" onclick="ChangeLanguage( 'ukrainian' ); return false;">Українська (Ukrainian)</a>
+														<a class="popup_menu_item tight" href="http://translation.steampowered.com" target="_blank">Help us translate Steam</a>
+						</div>
+					</div>
+							</div>
+		</div>
+			</div>
+</div>
+<div class="game_page_background game" style="background-image: url('http://cdn.akamai.steamstatic.com/steam/apps/271590/page_bg_v6.jpg?t=1434402788');">
+
+	
+		<div id="store_header">
+		<div class="content">
+			<div id="store_controls">
+				<div id="cart_status_data">
+																					<div class="store_header_btn_green store_header_btn" id="store_header_cart_btn" style="display: none;">
+							<div class="store_header_btn_caps store_header_btn_leftcap"></div>
+							<div class="store_header_btn_caps store_header_btn_rightcap"></div>
+							<a id="cart_link" class="store_header_btn_content" href="http://store.steampowered.com/cart/?snr=1_5_9__12">
+								Cart								(<span id="cart_item_count_value">0</span>)
+							</a>
+						</div>
+									</div>
+			</div>
+							<div id="store_nav_area">
+					<div class="store_nav_leftcap"></div>
+					<div class="store_nav_bg">
+						<div class="store_nav">
+							<a class="tab " href="http://store.steampowered.com/?snr=1_5_9__12">
+									<span>Featured Items</span>
+							</a>
+															<div class="tab  flyout_tab" id="genre_tab" onmouseover="FlyoutMenu( 'genre_tab', 'genre_flyout', 'left', 'bottom' );" onmouseout="HideFlyoutMenu( event, 'genre_tab', 'genre_flyout' );">
+									<span class="pulldown">Games<span ></span></span>
+
+								</div>
+								<div class="popup_block_new flyout_tab_flyout" id="genre_flyout" style="display: none;" onmouseout="HideFlyoutMenu( event, 'genre_tab', 'genre_flyout' );">
+									<div class="popup_body popup_menu">
+																																											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Free%20to%20Play/?snr=1_5_9__12">
+													Free to Play												</a>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																<a class="popup_menu_item" href="http://store.steampowered.com/genre/Early%20Access/?snr=1_5_9__12">
+													Early Access												</a>
+																															<div class="hr"></div>
+										<div class="popup_menu_subheader">Browse by genre:</div>
+
+																																	<a class="popup_menu_item" href="http://store.steampowered.com/tag/en/Action/?snr=1_5_9__12">
+													Action												</a>
+																																												<a class="popup_menu_item" href="http://store.steampowered.com/tag/en/Adventure/?snr=1_5_9__12">
+													Adventure												</a>
+																																												<a class="popup_menu_item" href="http://store.steampowered.com/tag/en/Casual/?snr=1_5_9__12">
+													Casual												</a>
+																																																																																						<a class="popup_menu_item" href="http://store.steampowered.com/tag/en/Indie/?snr=1_5_9__12">
+													Indie												</a>
+																																												<a class="popup_menu_item" href="http://store.steampowered.com/tag/en/Massively%20Multiplayer/?snr=1_5_9__12">
+													Massively Multiplayer												</a>
+																																												<a class="popup_menu_item" href="http://store.steampowered.com/tag/en/Racing/?snr=1_5_9__12">
+													Racing												</a>
+																																												<a class="popup_menu_item" href="http://store.steampowered.com/tag/en/RPG/?snr=1_5_9__12">
+													RPG												</a>
+																																												<a class="popup_menu_item" href="http://store.steampowered.com/tag/en/Simulation/?snr=1_5_9__12">
+													Simulation												</a>
+																																												<a class="popup_menu_item" href="http://store.steampowered.com/tag/en/Sports/?snr=1_5_9__12">
+													Sports												</a>
+																																												<a class="popup_menu_item" href="http://store.steampowered.com/tag/en/Strategy/?snr=1_5_9__12">
+													Strategy												</a>
+																					
+										<div class="hr"></div>
+										<a class="popup_menu_item" href="http://store.steampowered.com/tag/browse/?snr=1_5_9__12">
+											See popular tags										</a>
+										<div class="hr"></div>
+										<div class="popup_menu_subheader">Browse by platform:</div>
+										<a class="popup_menu_item" href="http://store.steampowered.com/search/?term=&sort_by=_ASC&os=mac&page=1&snr=1_5_9__12">
+											Mac OS X										</a>
+										<a class="popup_menu_item" href="http://store.steampowered.com/search/?term=&sort_by=_ASC&os=linux&page=1&snr=1_5_9__12">
+											SteamOS + Linux										</a>
+									</div>
+								</div>
+							
+							<div class="tab  flyout_tab" id="software_tab" onmouseover="FlyoutMenu( 'software_tab', 'software_flyout', 'left', 'bottom' );" onmouseout="HideFlyoutMenu( event, 'software_tab', 'software_flyout' );">
+								<span class="pulldown">Software<span ></span></span>
+
+							</div>
+							<div class="popup_block_new flyout_tab_flyout" id="software_flyout" style="display: none;" onmouseout="HideFlyoutMenu( event, 'software_tab', 'software_flyout' );">
+								<div class="popup_body popup_menu">
+
+																			<a class="popup_menu_item" href="http://store.steampowered.com/tag/en/Animation%20%26%20Modeling/?snr=1_5_9__12">
+											Animation & Modeling										</a>
+																			<a class="popup_menu_item" href="http://store.steampowered.com/tag/en/Audio%20Production/?snr=1_5_9__12">
+											Audio Production										</a>
+																			<a class="popup_menu_item" href="http://store.steampowered.com/tag/en/Design%20%26%20Illustration/?snr=1_5_9__12">
+											Design & Illustration										</a>
+																			<a class="popup_menu_item" href="http://store.steampowered.com/tag/en/Game%20Development/?snr=1_5_9__12">
+											Game Development										</a>
+																			<a class="popup_menu_item" href="http://store.steampowered.com/tag/en/Photo%20Editing/?snr=1_5_9__12">
+											Photo Editing										</a>
+																			<a class="popup_menu_item" href="http://store.steampowered.com/tag/en/Utilities/?snr=1_5_9__12">
+											Utilities										</a>
+																			<a class="popup_menu_item" href="http://store.steampowered.com/tag/en/Video%20Production/?snr=1_5_9__12">
+											Video Production										</a>
+																			<a class="popup_menu_item" href="http://store.steampowered.com/tag/en/Web%20Publishing/?snr=1_5_9__12">
+											Web Publishing										</a>
+									
+								</div>
+							</div>
+
+							<div class="tab  flyout_tab" id="hardware_tab" onmouseover="FlyoutMenu( 'hardware_tab', 'hardware_flyout', 'left', 'bottom' );" onmouseout="HideFlyoutMenu( event, 'hardware_tab', 'hardware_flyout' );">
+								<span class="pulldown">Hardware<span ></span></span>
+
+							</div>
+							<div class="popup_block_new flyout_tab_flyout" id="hardware_flyout" style="display: none;" onmouseout="HideFlyoutMenu( event, 'hardware_tab', 'hardware_flyout' );">
+								<div class="popup_body popup_menu">
+									<a class="popup_menu_item" href="http://store.steampowered.com/app/353370?snr=1_5_9__12">
+										Steam Controller									</a>
+									<a class="popup_menu_item" href="http://store.steampowered.com/app/353380?snr=1_5_9__12">
+										Steam Link									</a>
+									<a class="popup_menu_item" href="http://store.steampowered.com/sale/steam_machines?snr=1_5_9__12">
+										Steam Machines									</a>
+									<a class="popup_menu_item" target="_blank" href="http://steamcommunity.com/steamvr?snr=1_5_9__12">
+										SteamVR									</a>
+								</div>
+							</div>
+
+							<a class="tab " href="http://store.steampowered.com/freestuff/demos/?snr=1_5_9__12">
+								<span>Demos</span>
+							</a>
+
+							<a class="tab " href="http://store.steampowered.com/news/?snr=1_5_9__12">
+								<span>News</span>
+							</a>
+
+
+							
+								<div class="tab  flyout_tab" id="foryou_tab" onmouseover="EnsureStoreMenuTagsLoaded( '#foryou_yourtags' ); FlyoutMenu( 'foryou_tab', 'foryou_flyout', 'left', 'bottom' );" onmouseout="HideFlyoutMenu( event, 'foryou_tab', 'foryou_flyout' );">
+								<span class="pulldown">
+									For You									<span></span>
+								</span>
+								</div>
+								<div class="popup_block_new flyout_tab_flyout" id="foryou_flyout" style="display: none;" onmouseout="HideFlyoutMenu( event, 'foryou_tab', 'foryou_flyout' );">
+									<div class="popup_body popup_menu">
+										<a class="popup_menu_item" href="http://store.steampowered.com/recommended/?snr=1_5_9__12">
+											Recently viewed										</a>
+										<a class="popup_menu_item" href="http://store.steampowered.com/curators/?snr=1_5_9__12">
+											Steam Curators										</a>
+										<a class="popup_menu_item" href="http://store.steampowered.com/updated/all/?snr=1_5_9__12">
+											Recently updated										</a>
+									</div>
+								</div>
+
+							
+							<div id="store_search">
+								<form id="searchform" name="searchform" method="get" action="http://store.steampowered.com/search/" onsubmit="return SearchSuggestCheckTerm(this);">
+									<input type="hidden" name="snr" value="1_5_9__12" >
+									<div class="searchbox">
+										<input id="store_nav_search_term" name="term" type="text" class="default" value="search the store" size="22" autocomplete="off">
+										<a href="#" id="store_search_link" onclick="var $Form = $J(this).parents('form'); $Form.submit(); return false;"><img src="http://store.akamai.steamstatic.com/public/images/blank.gif"></a>
+									</div>
+								</form>
+							</div>
+							<div id="searchterm_options" class="search_suggest popup_block_new" style="display: none;">
+								<div class="popup_body" style="border-top: none;">
+									<div id="search_suggestion_contents">
+									</div>
+								</div>
+							</div>
+							<script language="JavaScript">
+								$J( function() { EnableSearchSuggestions( $J('#searchform')[0].elements['term'], '1_5_9_', 'VN', 'english', '1140101' ); } );
+							</script>
+
+						</div>
+					</div>
+					<div class="store_nav_rightcap"></div>
+				</div>
+					</div>
+	</div>
+	<script type="text/javascript">
+	var g_AccountID = 0;
+	var g_sessionID = "ba8525e03c0eb75f7cf28192";
+	var g_ServerTime = 1435696956;
+
+	$J( InitMiniprofileHovers );
+
+		GDynamicStore.Init( 0, false, "win" );
+	</script>
+	<div class="page_content_ctn">
+
+
+		<div class="" itemscope itemtype="http://schema.org/Product">
+			<meta itemprop="image" content="http://cdn.akamai.steamstatic.com/steam/apps/271590/capsule_231x87.jpg?t=1434402788">
+							<div itemprop="offers" itemscope itemtype="http://schema.org/Offer" style="display: none;">
+					<meta itemprop="priceCurrency" content="USD">
+					<meta itemprop="price" content="49.99">
+									</div>
+						<div class="page_title_area game_title_area page_content">
+				<div class="breadcrumbs">
+										<div class="blockbg">
+													<a href="http://store.steampowered.com/search/?term=&snr=1_5_9__205">All Games</a>
+																									&gt; <a href="http://store.steampowered.com/genre/Action/?snr=1_5_9__205">Action Games</a>
+																		&gt; <a href="http://store.steampowered.com/app/271590/?snr=1_5_9__205"><span itemprop="name">Grand Theft Auto V</span></a>
+
+					</div>
+					<div style="clear: left;"></div>
+									</div>
+				<div class="apphub_HomeHeaderContent">
+
+	<div class="apphub_HeaderStandardTop">
+				<div class="apphub_OtherSiteInfo">
+			<a class="btnv6_blue_hoverfade btn_medium" href="http://steamcommunity.com/app/271590" onclick="if ( typeof _gaq != 'undefined' && _gaq ) { _gaq.push(['app._link', 'http://steamcommunity.com/app/271590']); }">
+				<span>Community Hub</span>
+			</a>
+		</div>
+		<div class="apphub_AppIcon"><img src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271590/1e72f87eb927fa1485e68aefaff23c7fd7178251.jpg"><div class="overlay"></div></div>
+		<div class="apphub_AppName">Grand Theft Auto V</div>
+		<div style="clear: both"></div>
+	</div>
+
+</div>
+
+			</div>
+			<div style="clear: left;"></div>
+
+			<div class="block">
+								<script type="text/javascript">
+					var strRequiredVersion = "9";
+					if ( typeof( g_bIsOnMac ) != 'undefined' && g_bIsOnMac )
+						strRequiredVersion = "10.1.0";
+
+					
+					var bShouldUseHTML5 = BCanPlayWebm() || BDoesUserPreferHTML5() || !swfobject.hasFlashPlayerVersion(strRequiredVersion);
+				</script>
+				<div class="game_background_glow">
+				<div class="block_content page_content" id="game_highlights">
+
+					<div class="leftcol">
+						<div class="highlight_ctn">
+							<div class="highlight_overflow">
+								<div id="highlight_player_area" >
+																																					<div class="highlight_player_item highlight_movie" id="highlight_movie_2035420" style="display: none;">
+											<script type="text/javascript">
+												if( bShouldUseHTML5 )
+												{
+													document.write('<video class="highlight_player_item highlight_movie" src="http://cdn.akamai.steamstatic.com/steam/apps/2035420/movie480.webm?t=1426026322" data-hd-src="http://cdn.akamai.steamstatic.com/steam/apps/2035420/movie_max.webm?t=1426026322" poster="http://cdn.akamai.steamstatic.com/steam/apps/2035420/movie.293x165.jpg?t=1426026322" id="movie_2035420" preload="none"><p>You will need to <a href="http://www.adobe.com/go/getflashplayer" target="_blank">Install</a> the latest Flash plugin to view this page properly.</p></video>');
+													jQuery("#movie_2035420").videoControls();
+												}
+												else
+												{
+													document.write('<div id="movie_2035420" class="highlight_flash_player_notice" style="display: none;"><p>You will need to <a href="http://www.adobe.com/go/getflashplayer" target="_blank">Install</a> the latest Flash plugin to view this page properly.</p></div>');
+												}
+											</script>
+										</div>
+																			<div class="highlight_player_item highlight_movie" id="highlight_movie_2034504" style="display: none;">
+											<script type="text/javascript">
+												if( bShouldUseHTML5 )
+												{
+													document.write('<video class="highlight_player_item highlight_movie" src="http://cdn.akamai.steamstatic.com/steam/apps/2034504/movie480.webm?t=1426026379" data-hd-src="http://cdn.akamai.steamstatic.com/steam/apps/2034504/movie_max.webm?t=1426026379" poster="http://cdn.akamai.steamstatic.com/steam/apps/2034504/movie.293x165.jpg?t=1426026379" id="movie_2034504" preload="none"><p>You will need to <a href="http://www.adobe.com/go/getflashplayer" target="_blank">Install</a> the latest Flash plugin to view this page properly.</p></video>');
+													jQuery("#movie_2034504").videoControls();
+												}
+												else
+												{
+													document.write('<div id="movie_2034504" class="highlight_flash_player_notice" style="display: none;"><p>You will need to <a href="http://www.adobe.com/go/getflashplayer" target="_blank">Install</a> the latest Flash plugin to view this page properly.</p></div>');
+												}
+											</script>
+										</div>
+																			<div class="highlight_player_item highlight_movie" id="highlight_movie_2032899" style="display: none;">
+											<script type="text/javascript">
+												if( bShouldUseHTML5 )
+												{
+													document.write('<video class="highlight_player_item highlight_movie" src="http://cdn.akamai.steamstatic.com/steam/apps/2032899/movie480.webm?t=1426026456" data-hd-src="http://cdn.akamai.steamstatic.com/steam/apps/2032899/movie_max.webm?t=1426026456" poster="http://cdn.akamai.steamstatic.com/steam/apps/2032899/movie.293x165.jpg?t=1426026456" id="movie_2032899" preload="none"><p>You will need to <a href="http://www.adobe.com/go/getflashplayer" target="_blank">Install</a> the latest Flash plugin to view this page properly.</p></video>');
+													jQuery("#movie_2032899").videoControls();
+												}
+												else
+												{
+													document.write('<div id="movie_2032899" class="highlight_flash_player_notice" style="display: none;"><p>You will need to <a href="http://www.adobe.com/go/getflashplayer" target="_blank">Install</a> the latest Flash plugin to view this page properly.</p></div>');
+												}
+											</script>
+										</div>
+									
+																												<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_ea78dfa1d7d81c3781287cab165f64ca70f1f2ea.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_ea78dfa1d7d81c3781287cab165f64ca70f1f2ea.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_ea78dfa1d7d81c3781287cab165f64ca70f1f2ea.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+																			<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_d1555f147b4667f70fac769985df629cbfda40b8.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_d1555f147b4667f70fac769985df629cbfda40b8.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+																			<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_680684304e38a9c58a55866cde99469ae8ef510c.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_680684304e38a9c58a55866cde99469ae8ef510c.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_680684304e38a9c58a55866cde99469ae8ef510c.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+																			<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+																			<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+																			<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_320f7bf17d387eddb1c7153e2bf8de8e14bc4d39.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_320f7bf17d387eddb1c7153e2bf8de8e14bc4d39.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_320f7bf17d387eddb1c7153e2bf8de8e14bc4d39.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+																			<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_c7766bbf4f0800ea989e11b26991a3d90197568c.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_c7766bbf4f0800ea989e11b26991a3d90197568c.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_c7766bbf4f0800ea989e11b26991a3d90197568c.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+																			<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_65677665937a9164fb10b3194ff1d89bb1f1d848.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_65677665937a9164fb10b3194ff1d89bb1f1d848.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+																			<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_8ca5134d9826629ea01c9cfb6d8a51c2b1661e28.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_8ca5134d9826629ea01c9cfb6d8a51c2b1661e28.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_8ca5134d9826629ea01c9cfb6d8a51c2b1661e28.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+																			<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+																			<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_3da42391c6317205177248dea0a48ced89998a8d.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_3da42391c6317205177248dea0a48ced89998a8d.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_3da42391c6317205177248dea0a48ced89998a8d.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+																			<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_04c349fc07c4f6244f4426ea0b49e31c8581a97d.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_04c349fc07c4f6244f4426ea0b49e31c8581a97d.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_04c349fc07c4f6244f4426ea0b49e31c8581a97d.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+																			<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_fd8843577fb31aba4b4b827b5dad6c5ac3ab890b.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_fd8843577fb31aba4b4b827b5dad6c5ac3ab890b.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_fd8843577fb31aba4b4b827b5dad6c5ac3ab890b.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+																			<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+																			<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+																			<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_cd721eb1856f0dd3b820e4e998c3b5fe7e7c9b4e.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_cd721eb1856f0dd3b820e4e998c3b5fe7e7c9b4e.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_cd721eb1856f0dd3b820e4e998c3b5fe7e7c9b4e.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+																			<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_6efecf505052b51071024f32dc4db364cbb0ab6e.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_6efecf505052b51071024f32dc4db364cbb0ab6e.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+																			<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_43e9c59d968e7f99f1eef065af85b3e542100366.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_43e9c59d968e7f99f1eef065af85b3e542100366.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+																			<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+																			<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_95a1f04eb687eae71478c0c5ba644da57e10f215.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_95a1f04eb687eae71478c0c5ba644da57e10f215.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+																			<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.jpg" style="display: none;">
+											<div class="screenshot_holder">
+												<a class="highlight_screenshot_link" data-screenshotid="ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.jpg" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1434402788"">
+													<img src="http://store.akamai.steamstatic.com/public/images/blank.gif">
+												</a>
+											</div>
+										</div>
+									
+																		<script type="text/javascript">
+										var rgMovieFlashvars = {
+																							'movie_2035420': {
+													FILENAME: "http://cdn.akamai.steamstatic.com/steam/apps/2035420/movieLrg.flv?t=1426026322",
+													MOVIE_NAME: "Grand+Theft+Auto+V%3A+First+Person+Experience"
+												 },
+																							'movie_2034504': {
+													FILENAME: "http://cdn.akamai.steamstatic.com/steam/apps/2034504/movieLrg.flv?t=1426026379",
+													MOVIE_NAME: "A+Picket+Fence+and+a+Dog+Named+Skip"
+												 },
+																							'movie_2032899': {
+													FILENAME: "http://cdn.akamai.steamstatic.com/steam/apps/2032899/movieLrg.flv?t=1426026456",
+													MOVIE_NAME: "Announce+Teaser"
+												 },
+																						'' : ''
+										};
+										var rgCommonFlashVars = {
+												clientLanguage: "english",
+												capsuleSize: "huge",
+												STAGE_WIDTH: 600,
+												STAGE_HEIGHT: 338,
+												AUTO_PLAY: "true",
+												ALLOW_JSPAUSE: "true",
+												TRACK_MUTE: "true",
+												CHECKBOX_AUTOPLAY_SHOW: "true",
+												CHECKBOX_AUTOPLAY_TEXT: "Autoplay+videos"
+										};
+																				var rgScreenshotURLs = {"ss_ea78dfa1d7d81c3781287cab165f64ca70f1f2ea.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_ea78dfa1d7d81c3781287cab165f64ca70f1f2ea_SIZE_.jpg?t=1434402788","ss_d1555f147b4667f70fac769985df629cbfda40b8.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_d1555f147b4667f70fac769985df629cbfda40b8_SIZE_.jpg?t=1434402788","ss_680684304e38a9c58a55866cde99469ae8ef510c.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_680684304e38a9c58a55866cde99469ae8ef510c_SIZE_.jpg?t=1434402788","ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a_SIZE_.jpg?t=1434402788","ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b_SIZE_.jpg?t=1434402788","ss_320f7bf17d387eddb1c7153e2bf8de8e14bc4d39.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_320f7bf17d387eddb1c7153e2bf8de8e14bc4d39_SIZE_.jpg?t=1434402788","ss_c7766bbf4f0800ea989e11b26991a3d90197568c.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_c7766bbf4f0800ea989e11b26991a3d90197568c_SIZE_.jpg?t=1434402788","ss_65677665937a9164fb10b3194ff1d89bb1f1d848.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_65677665937a9164fb10b3194ff1d89bb1f1d848_SIZE_.jpg?t=1434402788","ss_8ca5134d9826629ea01c9cfb6d8a51c2b1661e28.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_8ca5134d9826629ea01c9cfb6d8a51c2b1661e28_SIZE_.jpg?t=1434402788","ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b_SIZE_.jpg?t=1434402788","ss_3da42391c6317205177248dea0a48ced89998a8d.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_3da42391c6317205177248dea0a48ced89998a8d_SIZE_.jpg?t=1434402788","ss_04c349fc07c4f6244f4426ea0b49e31c8581a97d.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_04c349fc07c4f6244f4426ea0b49e31c8581a97d_SIZE_.jpg?t=1434402788","ss_fd8843577fb31aba4b4b827b5dad6c5ac3ab890b.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_fd8843577fb31aba4b4b827b5dad6c5ac3ab890b_SIZE_.jpg?t=1434402788","ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e_SIZE_.jpg?t=1434402788","ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86_SIZE_.jpg?t=1434402788","ss_cd721eb1856f0dd3b820e4e998c3b5fe7e7c9b4e.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_cd721eb1856f0dd3b820e4e998c3b5fe7e7c9b4e_SIZE_.jpg?t=1434402788","ss_6efecf505052b51071024f32dc4db364cbb0ab6e.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_6efecf505052b51071024f32dc4db364cbb0ab6e_SIZE_.jpg?t=1434402788","ss_43e9c59d968e7f99f1eef065af85b3e542100366.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_43e9c59d968e7f99f1eef065af85b3e542100366_SIZE_.jpg?t=1434402788","ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19_SIZE_.jpg?t=1434402788","ss_95a1f04eb687eae71478c0c5ba644da57e10f215.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_95a1f04eb687eae71478c0c5ba644da57e10f215_SIZE_.jpg?t=1434402788","ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.jpg":"http:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e_SIZE_.jpg?t=1434402788"};
+									</script>
+								</div>
+																<div id="highlight_strip">
+									<div id="highlight_strip_scroll" style="width: 2882px;">
+										<div class="highlight_selector"></div>
+
+																					<div class="highlight_strip_item highlight_strip_movie" id="thumb_movie_2035420" >
+												<img class="movie_thumb" src="http://cdn.akamai.steamstatic.com/steam/apps/2035420/movie.184x123.jpg?t=1426026322">
+												<div class="highlight_movie_marker"></div>
+											</div>
+																					<div class="highlight_strip_item highlight_strip_movie" id="thumb_movie_2034504" >
+												<img class="movie_thumb" src="http://cdn.akamai.steamstatic.com/steam/apps/2034504/movie.184x123.jpg?t=1426026379">
+												<div class="highlight_movie_marker"></div>
+											</div>
+																					<div class="highlight_strip_item highlight_strip_movie" id="thumb_movie_2032899" >
+												<img class="movie_thumb" src="http://cdn.akamai.steamstatic.com/steam/apps/2032899/movie.184x123.jpg?t=1426026456">
+												<div class="highlight_movie_marker"></div>
+											</div>
+										
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_ea78dfa1d7d81c3781287cab165f64ca70f1f2ea.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_ea78dfa1d7d81c3781287cab165f64ca70f1f2ea.116x65.jpg?t=1434402788">
+											</div>
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_d1555f147b4667f70fac769985df629cbfda40b8.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.116x65.jpg?t=1434402788">
+											</div>
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_680684304e38a9c58a55866cde99469ae8ef510c.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_680684304e38a9c58a55866cde99469ae8ef510c.116x65.jpg?t=1434402788">
+											</div>
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a.116x65.jpg?t=1434402788">
+											</div>
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.116x65.jpg?t=1434402788">
+											</div>
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_320f7bf17d387eddb1c7153e2bf8de8e14bc4d39.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_320f7bf17d387eddb1c7153e2bf8de8e14bc4d39.116x65.jpg?t=1434402788">
+											</div>
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_c7766bbf4f0800ea989e11b26991a3d90197568c.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_c7766bbf4f0800ea989e11b26991a3d90197568c.116x65.jpg?t=1434402788">
+											</div>
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_65677665937a9164fb10b3194ff1d89bb1f1d848.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.116x65.jpg?t=1434402788">
+											</div>
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_8ca5134d9826629ea01c9cfb6d8a51c2b1661e28.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_8ca5134d9826629ea01c9cfb6d8a51c2b1661e28.116x65.jpg?t=1434402788">
+											</div>
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.116x65.jpg?t=1434402788">
+											</div>
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_3da42391c6317205177248dea0a48ced89998a8d.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_3da42391c6317205177248dea0a48ced89998a8d.116x65.jpg?t=1434402788">
+											</div>
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_04c349fc07c4f6244f4426ea0b49e31c8581a97d.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_04c349fc07c4f6244f4426ea0b49e31c8581a97d.116x65.jpg?t=1434402788">
+											</div>
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_fd8843577fb31aba4b4b827b5dad6c5ac3ab890b.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_fd8843577fb31aba4b4b827b5dad6c5ac3ab890b.116x65.jpg?t=1434402788">
+											</div>
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.116x65.jpg?t=1434402788">
+											</div>
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.116x65.jpg?t=1434402788">
+											</div>
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_cd721eb1856f0dd3b820e4e998c3b5fe7e7c9b4e.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_cd721eb1856f0dd3b820e4e998c3b5fe7e7c9b4e.116x65.jpg?t=1434402788">
+											</div>
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_6efecf505052b51071024f32dc4db364cbb0ab6e.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.116x65.jpg?t=1434402788">
+											</div>
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_43e9c59d968e7f99f1eef065af85b3e542100366.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.116x65.jpg?t=1434402788">
+											</div>
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.116x65.jpg?t=1434402788">
+											</div>
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_95a1f04eb687eae71478c0c5ba644da57e10f215.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.116x65.jpg?t=1434402788">
+											</div>
+																					<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.jpg" >
+												<img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.116x65.jpg?t=1434402788">
+											</div>
+										
+																			</div>
+								</div>
+																	<div class="slider_ctn">
+										<div id="highlight_slider_left" class="slider_left"><span></span></div>
+										<div class="slider" id="highlight_slider" >
+											<div class="slider_bg">
+											</div>
+											<div class="handle">
+											</div>
+										</div>
+										<div id="highlight_slider_right" class="slider_right"><span></span></div>
+									</div>
+									<script type="text/javascript">
+										$J( function() {
+											var player = new HighlightPlayer( {
+												elemPlayerArea: 'highlight_player_area',
+												elemStrip: 'highlight_strip',
+												elemStripScroll: 'highlight_strip_scroll',
+												elemSlider: 'highlight_slider',
+												rgMovieFlashvars: rgMovieFlashvars,
+												rgScreenshotURLs: rgScreenshotURLs,
+												rgDefaultMovieFlashvars: rgCommonFlashVars,
+												bUseHTMLPlayer: bShouldUseHTML5
+											} );
+											$J('#highlight_slider_right').click( function() {
+												player.Transition( true );
+											});
+											$J('#highlight_slider_left').click( function() {
+												player.TransitionBack( true );
+											});
+
+											if( window.location.hash )
+											{
+												var ssid = window.location.hash.substr(1);
+												player.HighlightScreenshot(ssid);
+											}
+										} );
+									</script>
+															</div>
+						</div>
+					</div>
+					<div class="rightcol">
+						<div class="glance_ctn">
+							<div class="game_header_image_ctn">
+								<img class="game_header_image_full" src="http://cdn.akamai.steamstatic.com/steam/apps/271590/header.jpg?t=1434402788">
+							</div>
+															<div class="game_description_snippet">
+									Due to a surge in high-end crime across southern San Andreas, demand for luxury goods and services is at an all-time high. Upscale merchants of all kinds are scrambling to fill their inventories to serve the newly wealthy as part of the Ill-Gotten Gains Update.								</div>
+							
+															
+								<div onclick="window.location='#app_reviews_hash'" style="cursor: pointer;" data-store-tooltip="80% of the 54,232 user reviews for this game are positive." itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+									<div class="release_date">
+										User reviews:																					<span class="game_review_summary positive" itemprop="description">Very Positive</span>
+											(54,232 reviews)
+
+											<!-- microdata -->
+											<meta itemprop="reviewCount" content="54232">
+											<meta itemprop="ratingValue" content="9">
+											<meta itemprop="bestRating" content="10">
+											<meta itemprop="worstRating" content="1">
+																			</div>
+								</div>
+							
+																								<div class="release_date">
+										Release Date: <span class="date">14 Apr, 2015</span>
+									</div>
+																									<!-- when the javascript runs, it will set these visible or not depending on what fits in the area -->
+																		<div class="glance_tags_ctn">
+										<div class="glance_tags_label">Popular user-defined tags for this product:</div>
+										<div class="glance_tags popular_tags" data-appid="271590">
+											<a href="http://store.steampowered.com/tag/en/Open%20World/?snr=1_5_9__409" class="app_tag" style="display: none;">
+													Open World												</a><a href="http://store.steampowered.com/tag/en/Action/?snr=1_5_9__409" class="app_tag" style="display: none;">
+													Action												</a><a href="http://store.steampowered.com/tag/en/Multiplayer/?snr=1_5_9__409" class="app_tag" style="display: none;">
+													Multiplayer												</a><a href="http://store.steampowered.com/tag/en/First-Person/?snr=1_5_9__409" class="app_tag" style="display: none;">
+													First-Person												</a><a href="http://store.steampowered.com/tag/en/Third%20Person/?snr=1_5_9__409" class="app_tag" style="display: none;">
+													Third Person												</a><a href="http://store.steampowered.com/tag/en/Crime/?snr=1_5_9__409" class="app_tag" style="display: none;">
+													Crime												</a><a href="http://store.steampowered.com/tag/en/Adventure/?snr=1_5_9__409" class="app_tag" style="display: none;">
+													Adventure												</a><a href="http://store.steampowered.com/tag/en/Third-Person%20Shooter/?snr=1_5_9__409" class="app_tag" style="display: none;">
+													Third-Person Shooter												</a><a href="http://store.steampowered.com/tag/en/Atmospheric/?snr=1_5_9__409" class="app_tag" style="display: none;">
+													Atmospheric												</a><a href="http://store.steampowered.com/tag/en/Shooter/?snr=1_5_9__409" class="app_tag" style="display: none;">
+													Shooter												</a><a href="http://store.steampowered.com/tag/en/Singleplayer/?snr=1_5_9__409" class="app_tag" style="display: none;">
+													Singleplayer												</a><a href="http://store.steampowered.com/tag/en/Sandbox/?snr=1_5_9__409" class="app_tag" style="display: none;">
+													Sandbox												</a><a href="http://store.steampowered.com/tag/en/Mature/?snr=1_5_9__409" class="app_tag" style="display: none;">
+													Mature												</a><a href="http://store.steampowered.com/tag/en/Racing/?snr=1_5_9__409" class="app_tag" style="display: none;">
+													Racing												</a><a href="http://store.steampowered.com/tag/en/Co-op/?snr=1_5_9__409" class="app_tag" style="display: none;">
+													Co-op												</a><a href="http://store.steampowered.com/tag/en/Great%20Soundtrack/?snr=1_5_9__409" class="app_tag" style="display: none;">
+													Great Soundtrack												</a><a href="http://store.steampowered.com/tag/en/Funny/?snr=1_5_9__409" class="app_tag" style="display: none;">
+													Funny												</a><a href="http://store.steampowered.com/tag/en/Comedy/?snr=1_5_9__409" class="app_tag" style="display: none;">
+													Comedy												</a><a href="http://store.steampowered.com/tag/en/Moddable/?snr=1_5_9__409" class="app_tag" style="display: none;">
+													Moddable												</a><a href="http://store.steampowered.com/tag/en/RPG/?snr=1_5_9__409" class="app_tag" style="display: none;">
+													RPG												</a><div class="app_tag add_button" onclick="ShowAppTagModal( 271590 )">+</div>
+										</div>
+									</div>
+																							
+
+						</div>
+					</div>
+					<div style="clear: both;"></div>
+				</div>
+				</div>
+                    						<div class="queue_ctn">
+                                                <div class="demo_area_button">
+                            <p><a href="http://store.steampowered.com/login/?redir=app%2F271590">Sign in</a> to add this item to your wishlist, follow it, or mark it as not interested</p>
+                        </div>
+
+                                    </div>
+
+				
+                				
+
+
+
+
+
+
+									</div>
+							<div class="page_content">
+			<div class="leftcol game_description_column">
+
+				
+								<div id="game_area_purchase">
+
+													
+										
+
+					
+
+                                        
+										
+
+
+					<!--[if lte IE 7]>
+<style type="text/css">
+.game_area_purchase_game_dropdown_right_panel .btn_addtocart { float: none; }
+</style>
+<![endif]-->
+<div class="game_area_purchase_game_wrapper">
+		<div class="game_area_purchase_game">
+		<form name="add_to_cart_36425" action="http://store.steampowered.com/cart/" method="POST">
+			<input type="hidden" name="snr" value="1_5_9__403">
+			<input type="hidden" name="action" value="add_to_cart">
+			<input type="hidden" name="sessionid" value="ba8525e03c0eb75f7cf28192">
+			<input type="hidden" name="subid" value="36425">
+		</form>
+				<div class="game_area_purchase_platform"><span class="platform_img win"></span></div>
+		<h1>Buy Grand Theft Auto V</h1>
+						
+		<div class="game_purchase_action">
+						<div class="game_purchase_action_bg">
+															<div class="game_purchase_price price">
+							&#36;49.99 USD						</div>
+													<div class="btn_addtocart">
+
+					 
+												<a class="btnv6_green_white_innerfade btn_medium" href="javascript:addToCart(36425);">
+							<span>Add to Cart</span>
+						</a>
+											
+				</div>
+							</div>
+		</div>
+	</div>
+
+		
+	</div>
+<h2 class="package_group">Shark Cash Cards</h2><div class="game_area_purchase_game_wrapper">
+	<div style="z-index: 500;" class="game_area_purchase_game_dropdown game_area_purchase_game">
+		<form id="add_to_cart_sharkcards" name="add_to_cart_sharkcards" action="http://store.steampowered.com/cart/" method="POST">
+			<input type="hidden" name="snr" value="1_5_9__403">
+			<input type="hidden" name="action" value="add_to_cart">
+			<input type="hidden" name="sessionid" value="ba8525e03c0eb75f7cf28192">
+			<input id="add_to_cart_sharkcards_value" type="hidden" name="subid" value="">
+			<input id="add_to_cart_sharkcards_remove_value" type="hidden" name="removesubid" value="">
+		</form>
+				<div class="game_area_purchase_platform"></div>
+		<h1>Buy Shark Cash Cards</h1>
+		<div id="add_to_cart_sharkcards_description_text" class="game_area_purchase_game_dropdown_description ">Cash is king in this town. Solve your money problem and help get what you want across Los Santos and Blaine County with the occasional purchase of cash packs for Grand Theft Auto Online. All purchased cash is automatically deposited into your character’s bank account. Spend wisely, cash therapy is fleeting. Grand Theft Auto V required to play and sold separately.</div>
+		<br/>
+				<div class="game_area_purchase_game_dropdown_right_panel">
+			<div class="game_purchase_action_bg">
+				<div class="game_area_purchase_game_dropdown_panel">
+										<div class="game_area_purchase_game_dropdown_selection" onclick="javascript:ShowMenu( 'add_to_cart_sharkcards_pulldown', 'add_to_cart_sharkcards_menu' );" id="add_to_cart_sharkcards_pulldown"><span id="add_to_cart_sharkcards_selected_text">Select a purchase option</span> <img src="http://store.akamai.steamstatic.com/public/images/v5/btn_arrow_down_padded.png"></img></div>
+					<div id="add_to_cart_sharkcards_menu" class="game_area_purchase_game_dropdown_menu_container" style="display: none;">
+						<table cellspacing="0" cellpadding="0" class="game_area_purchase_game_dropdown_menu_items_container_background game_area_purchase_game_dropdown_menu_items_container">
+												<tr class="game_area_purchase_game_dropdown_menu_item_no_discount" onclick="javascript:dropdownSelectOption( 'sharkcards', 69785, false );">
+							<td class="game_area_purchase_game_dropdown_menu_item_text" id="add_to_cart_sharkcards_menu_option_69785">Red Shark: GTA$100,000 - &#36;1.99 USD</td>
+							<td align="center" class="game_area_purchase_game_dropdown_menu_item_savings"></td>
+							<div style="display: none;" id="add_to_cart_sharkcards_menu_option_description_69785">Cash is king in this town. Solve your money problem and help get what you want across Los Santos and Blaine County with the occasional purchase of cash packs for Grand Theft Auto Online. All purchased cash is automatically deposited into your character’s bank account. Spend wisely, cash therapy is fleeting. Grand Theft Auto V required to play and sold separately.</div>
+						</tr>
+													<tr class="game_area_purchase_game_dropdown_menu_item_no_discount" onclick="javascript:dropdownSelectOption( 'sharkcards', 69814, false );">
+							<td class="game_area_purchase_game_dropdown_menu_item_text" id="add_to_cart_sharkcards_menu_option_69814">Tiger Shark: GTA$200,000 - &#36;3.49 USD</td>
+							<td align="center" class="game_area_purchase_game_dropdown_menu_item_savings"></td>
+							<div style="display: none;" id="add_to_cart_sharkcards_menu_option_description_69814">Cash is king in this town. Solve your money problem and help get what you want across Los Santos and Blaine County with the occasional purchase of cash packs for Grand Theft Auto Online. All purchased cash is automatically deposited into your character’s bank account. Spend wisely, cash therapy is fleeting. Grand Theft Auto V required to play and sold separately.</div>
+						</tr>
+													<tr class="game_area_purchase_game_dropdown_menu_item_no_discount" onclick="javascript:dropdownSelectOption( 'sharkcards', 69815, false );">
+							<td class="game_area_purchase_game_dropdown_menu_item_text" id="add_to_cart_sharkcards_menu_option_69815">Bull Shark: GTA$500,000 - &#36;6.99 USD</td>
+							<td align="center" class="game_area_purchase_game_dropdown_menu_item_savings"></td>
+							<div style="display: none;" id="add_to_cart_sharkcards_menu_option_description_69815">Cash is king in this town. Solve your money problem and help get what you want across Los Santos and Blaine County with the occasional purchase of cash packs for Grand Theft Auto Online. All purchased cash is automatically deposited into your character’s bank account. Spend wisely, cash therapy is fleeting. Grand Theft Auto V required to play and sold separately.</div>
+						</tr>
+													<tr class="game_area_purchase_game_dropdown_menu_item_no_discount" onclick="javascript:dropdownSelectOption( 'sharkcards', 69816, false );">
+							<td class="game_area_purchase_game_dropdown_menu_item_text" id="add_to_cart_sharkcards_menu_option_69816">Great White Shark: GTA$1,250,000 - &#36;13.49 USD</td>
+							<td align="center" class="game_area_purchase_game_dropdown_menu_item_savings"></td>
+							<div style="display: none;" id="add_to_cart_sharkcards_menu_option_description_69816">Cash is king in this town. Solve your money problem and help get what you want across Los Santos and Blaine County with the occasional purchase of cash packs for Grand Theft Auto Online. All purchased cash is automatically deposited into your character’s bank account. Spend wisely, cash therapy is fleeting. Grand Theft Auto V required to play and sold separately.</div>
+						</tr>
+													<tr class="game_area_purchase_game_dropdown_menu_item_no_discount" onclick="javascript:dropdownSelectOption( 'sharkcards', 69817, false );">
+							<td class="game_area_purchase_game_dropdown_menu_item_text" id="add_to_cart_sharkcards_menu_option_69817">Whale Shark: GTA$3,500,000 - &#36;34.99 USD</td>
+							<td align="center" class="game_area_purchase_game_dropdown_menu_item_savings"></td>
+							<div style="display: none;" id="add_to_cart_sharkcards_menu_option_description_69817">Cash is king in this town. Solve your money problem and help get what you want across Los Santos and Blaine County with the occasional purchase of cash packs for Grand Theft Auto Online. All purchased cash is automatically deposited into your character’s bank account. Spend wisely, cash therapy is fleeting. Grand Theft Auto V required to play and sold separately.</div>
+						</tr>
+													<tr class="game_area_purchase_game_dropdown_menu_item_no_discount" onclick="javascript:dropdownSelectOption( 'sharkcards', 69821, false );">
+							<td class="game_area_purchase_game_dropdown_menu_item_text" id="add_to_cart_sharkcards_menu_option_69821">Megalodon Shark: GTA$8,000,000 - &#36;64.99 USD</td>
+							<td align="center" class="game_area_purchase_game_dropdown_menu_item_savings"></td>
+							<div style="display: none;" id="add_to_cart_sharkcards_menu_option_description_69821">Cash is king in this town. Solve your money problem and help get what you want across Los Santos and Blaine County with the occasional purchase of cash packs for Grand Theft Auto Online. All purchased cash is automatically deposited into your character’s bank account. Spend wisely, cash therapy is fleeting. Grand Theft Auto V required to play and sold separately.</div>
+						</tr>
+													</table>
+					</div>
+				</div>				
+				<div id="add_to_cart_sharkcards_add_button" class="btn_addtocart" >
+		 			<a class="btnv6_green_white_innerfade btn_medium" href="javascript:dropdownAddToCart('sharkcards');">
+		 				<span>Add to Cart</span>
+		 			</a>
+				</div>		
+				<div id="add_to_cart_sharkcards_in_cart_button" class="btn_addtocart" style="display:none;" >
+		 			<a class="btnv6_green_white_innerfade btn_medium" href="http://store.steampowered.com/cart/?snr=1_5_9__403"><span>In Cart</span></a>
+				</div>		
+			</div>		
+		</div>		
+	</div>
+</div>
+
+
+				</div>
+				<!-- game_area_purchase -->
+
+						<div class="purchase_area_spacer">&nbsp;</div>
+
+							<div class="steam_curators_block block">
+					<div class="block_header">
+												<div class="right"><a href="http://store.steampowered.com/curators/topcurators/?appid=271590">View all (12)</a></div>
+												<h2>Recommended By Curators</h2>
+					</div>
+										<div class="steam_curators_grid three_wide">
+													<div class="steam_curator_icon small" data-store-tooltip="PC Gamer">
+                                <a href="http://store.steampowered.com/curator/1850-PC-Gamer/?appid=271590" >
+                                <div class="steam_curator_border"></div>
+																<img src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/da/da87a741109856e24e56bbba245955e826c786ff.jpg">
+                                </a>
+							</div>
+														<div class="steam_curator_icon small" data-store-tooltip="/r/pcmasterrace Group">
+                                <a href="http://store.steampowered.com/curator/4771848-r-pcmasterrace-Group/?appid=271590" >
+                                <div class="steam_curator_border"></div>
+																<img src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/84/84aab2b8f255d148608158b550e4f7877d53f773.jpg">
+                                </a>
+							</div>
+														<div class="steam_curator_icon small" data-store-tooltip="Just Good PC Games">
+                                <a href="http://store.steampowered.com/curator/6856269-Just-Good-PC-Games/?appid=271590" >
+                                <div class="steam_curator_border"></div>
+																<img src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/12/128b1003cf5c2302f00f2d8d322f4ba38b85a5a0.jpg">
+                                </a>
+							</div>
+														<div class="steam_curator_icon small" data-store-tooltip="Boogie2988's Games">
+                                <a href="http://store.steampowered.com/curator/6859357-Boogie2988%27s-Games/?appid=271590" >
+                                <div class="steam_curator_border"></div>
+																<img src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/45/4526ddfab1c1cd9c8cff0bcc996c5683483742c1.jpg">
+                                </a>
+							</div>
+														<div class="steam_curator_icon small" data-store-tooltip="IGN">
+                                <a href="http://store.steampowered.com/curator/9869-IGN/?appid=271590" >
+                                <div class="steam_curator_border"></div>
+																<img src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/d2/d240a4819ad867dd2ca2d9301dab91b025fd31c5.jpg">
+                                </a>
+							</div>
+														<div class="steam_curator_icon small" data-store-tooltip="Vinesauce Vidya">
+                                <a href="http://store.steampowered.com/curator/1657604-Vinesauce-Vidya/?appid=271590" >
+                                <div class="steam_curator_border"></div>
+																<img src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/37/37ae78122c7550adfaa23d45da71f0436907b2ec.jpg">
+                                </a>
+							</div>
+												</div>
+										<div class="steam_curator_selected">
+						<div class="steam_curator_icon medium "><a href="http://store.steampowered.com/curator/1370293-Cynical-Brit-Gaming/?appid=271590"><img src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/bf/bf146d00fb17e4cc6a86529689a622a43f9f9440_medium.jpg" data-store-tooltip="Cynical Brit Gaming"></a></div>
+						<div class="steam_curator_recommendation">
+
+															"You don't really need me to tell you how good GTA5 is, but more importantly, the PC version is the definitive and best version available."
+							
+															<div class="steam_curator_recommendation_readmore">Read the full review <a target="_blank" href="https://www.youtube.com/watch?v=HUEYJS799dI">here</a>.</div>
+							
+													</div>
+					</div>
+
+					<div style="clear: both"></div>
+				</div>
+				
+								<!-- Announcements block -->
+					<div class="early_access_announcements">
+						<h2>
+							Recent updates							<span class="note">
+								<a href="http://steamcommunity.com/gid/[g:1:6144970]/announcements/">View all <em>(20)</em></a>
+							</span>
+						</h2>
+
+													<div class="post ">
+								<div class="container">
+                                    <h2>30 June</h2>
+                                    <h1><a href="http://steamcommunity.com/gid/[g:1:6144970]/announcements/detail/773839826206341383">ILL-GOTTEN GAINS Update: Part Two Coming to GTA Online Next Week</a></h1>
+									<p><img src="http://media.rockstargames.com/rockstargames/img/global/news/upload/actual_1435672761.jpg">
+<br>
+<br>The second haul of high-end goods currently en route to Los Santos' luxury shops and dealerships. We're pleased to announce that the <b>Ill-Gotten Gains Update: Part Two</b> will arrive for all platforms next week, on Wednesday July 8th. This new collection of extravagant attire and potent transportation also includes the debut of the previously PC-exclusive The Lab radio station across all four console platforms.
+<br>
+<br>Stay tuned for more details on next week's update, including particulars for our second Ill-Gotten Gains Social Club Event Weekend kicking off on Friday, July 10th. For now, check out a sample of what’s coming up via our screenshot gallery - and for players who didn’t get last year’s <a class="bb_link" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://www.rockstargames.com/newswire/article/52270/The-GTA-Online-Independence-Day-Special-Available-Starting" >Independence Day Special</a>, look for the return of old favorites at reduced rates, including the Firework Rocket Launcher.
+<br>
+<br><img src="http://media.rockstargames.com/rockstargames/img/global/news/upload/actual_1435672873.jpg">
+<br>From the San Chianski Mountain Range to the sidewalks of Vinewood Boulevard, the stylish <b>Coil Brawler</b> is equipped to handle any terrain.
+<br>
+<br><img src="http://media.rockstargames.com/rockstargames/img/global/news/upload/actual_1435672910.jpg">
+<br>Docktease expands its fleet with the classic <b>Lampadati Toro</b>.
+<br>
+<br><img src="http://media.rockstargames.com/rockstargames/img/global/news/upload/actual_1435672940.jpg">
+<br>New shipments of clothing and accessories are available at high end retailers across Los Santos.
+<br>
+<br><img src="http://media.rockstargames.com/rockstargames/img/global/news/upload/actual_1435672964.jpg">
+<br>The <b>Invetero Coquette BlackFin </b>offers a new body style on an old favorite.
+<br>
+<br><img src="http://media.rockstargames.com/rockstargames/img/global/news/upload/actual_1435672993.jpg">
+<br>The extremely powerful and damaging, single-shot <b>Marksman Pistol</b>.
+<br>
+<br><img src="http://media.rockstargames.com/rockstargames/img/global/news/upload/actual_1435673018.jpg">
+<br>The blazingly fast <b>Progen T20</b> is built from the ground up for quick getaways and street-tuning.
+<br>
+<br><img src="http://media.rockstargames.com/rockstargames/img/global/news/upload/actual_1435673045.jpg">
+<br><b>Knuckledusters</b> from Ammu-Nation offer a personal way to connect with new friends all over Los Santos.
+<br>
+<br><img src="http://media.rockstargames.com/rockstargames/img/global/news/upload/actual_1435673075.jpg">
+<br>Represent your local custom shop in the <b>Vapid Chino</b> with a Los Santos Customs Plaque.
+<br>
+<br><img src="http://media.rockstargames.com/rockstargames/img/global/news/upload/actual_1435673104.jpg">
+<br>Luxury meets raw power with the <b>Dinka Vindicator</b>.</p>
+								</div>
+								<div class="hr"></div>
+								<span class="comments">227 comments</span>
+								<span class="more"><a href="http://steamcommunity.com/gid/[g:1:6144970]/announcements/detail/773839826206341383">Read more</a></span>
+							</div>
+
+															<div class="divider"></div>
+																				<div class="post ">
+								<div class="container">
+                                    <h2>22 June</h2>
+                                    <h1><a href="http://steamcommunity.com/gid/[g:1:6144970]/announcements/detail/189497582311345921">GTA Online ILL-GOTTEN GAINS Part One Event Weekend Recap: Snapmatic Winners, Bonus Crate Drop T-Shirt &amp; More</a></h1>
+									<p>Gilded guns, unabashedly gaudy fashions, gull-winged sports cars taking flight, and hedonistic Los Santos citizens celebrating their ILL-GOTTEN GAINS and greedily sopping up special opportunities to reap bonus GTA$, RP and more - it was all part of last week's GTA Online Event Weekend. 
+<br><a class="bb_link" target="_blank" href="https://youtu.be/So77SI_Ax_U"  id="dynamiclink_0">https://youtu.be/So77SI_Ax_U</a>
+<br>To kick off the ILL-GOTTEN GAINS Part 1 Event Weekend we were joined on the official Rockstar Broadcast Event livestream by Adam Kovic, Bruce Greene, James Willems, Lawrence Sonntag and Sean “Spoole” Poole – collectively known as FUNHAUS. Rockstar Broadcast veteran Lui Calibre happened to be visiting the FUNHAUS offices that day and joined in the festivities as a special surprise guest to put Lazlow and the Rockstar Broadcast Team to the test. Check out the vid above to see some choice highlights.
+<br>
+<br>Also, check out the winners of the Event Weekend Snapmatic contest, and to tide you over until Ill-Gotten Gains Part 2 hits the Los Santos shores, unlock the exclusive Enema 0 T-shirt (available now in Crate Drops for a limited time). More details in today's recap at the Rockstar Newswire: <a class="bb_link" target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://rsg.ms/9cacd78" >http://rsg.ms/9cacd78</a></p>
+								</div>
+								<div class="hr"></div>
+								<span class="comments">208 comments</span>
+								<span class="more"><a href="http://steamcommunity.com/gid/[g:1:6144970]/announcements/detail/189497582311345921">Read more</a></span>
+							</div>
+
+																		</div>
+				
+				
+							<div class="game_page_autocollapse" style="max-height: 300px;">
+											<div class="game_area_description">
+							<h2>Special Announcement</h2>								<p><a target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://www.rockstargames.com/videos/video/11267"  >
+<br><img src="http://cdn.akamai.steamstatic.com/steam/apps/271590/extras/gtav_60fps_600x150.jpg?t=1434402788"></a></p>
+													</div>
+											<div >
+							<img src="http://cdn.akamai.steamstatic.com/steam/clusters/mobile_client_i18n_assets/397a5a0d/app_controller_banner_english.png?t=1426788333">								<p></p>
+													</div>
+									</div>
+							<div class="game_page_autocollapse" style="max-height: 300px;">
+					<div id="game_area_description" class="game_area_description">
+						<h2>About This Game</h2>
+						When a young street hustler, a retired bank robber and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. government and the entertainment industry, they must pull off a series of dangerous heists to survive in a ruthless city in which they can trust nobody, least of all each other.<br />
+ <br />
+Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second. <br />
+ <br />
+The game offers players a huge range of PC-specific customization options, including over 25 separate configurable settings for texture quality, shaders, tessellation, anti-aliasing and more, as well as support and extensive customization for mouse and keyboard controls. Additional options include a population density slider to control car and pedestrian traffic, as well as dual and triple monitor support, 3D compatibility, and plug-and-play controller support.  <br />
+ <br />
+Grand Theft Auto V for PC also includes Grand Theft Auto Online, with support for 30 players and two spectators. Grand Theft Auto Online for PC will include all existing gameplay upgrades and Rockstar-created content released since the launch of Grand Theft Auto Online, including Heists and Adversary modes.<br />
+ <br />
+The PC version of Grand Theft Auto V and Grand Theft Auto Online features First Person Mode, giving players the chance to explore the incredibly detailed world of Los Santos and Blaine County in an entirely new way.<br />
+ <br />
+Grand Theft Auto V for PC also brings the debut of the Rockstar Editor, a powerful suite of creative tools to quickly and easily capture, edit and share game footage from within Grand Theft Auto V and Grand Theft Auto Online. The Rockstar Editor’s Director Mode allows players the ability to stage their own scenes using prominent story characters, pedestrians, and even animals to bring their vision to life. Along with advanced camera manipulation and editing effects including fast and slow motion, and an array of camera filters, players can add their own music using songs from GTAV radio stations, or dynamically control the intensity of the game’s score. Completed videos can be uploaded directly from the Rockstar Editor to YouTube and the Rockstar Games Social Club for easy sharing.  <br />
+ <br />
+Soundtrack artists The Alchemist and Oh No return as hosts of the new radio station, The Lab FM. The station features new and exclusive music from the production duo based on and inspired by the game’s original soundtrack. Collaborating guest artists include Earl Sweatshirt, Freddie Gibbs, Little Dragon, Killer Mike, Sam Herring from Future Islands, and more. Players can also discover Los Santos and Blaine County while enjoying their own music through Self Radio, a new radio station that will host player-created custom soundtracks.<br />
+ <br />
+Existing players on PlayStation®3, PlayStation®4, Xbox 360 and Xbox One are able to transfer their Grand Theft Auto Online characters and progression to PC.  For more information, please visit rockstargames.com/gtaonline/charactertransfer.					</div>
+				</div>
+			
+				<div class="game_page_autocollapse 
+				_req" style="max-height: 220px;">
+		<h2>System Requirements</h2>
+				<div class="sysreq_contents">
+							<div class="game_area_sys_req sysreq_content active" data-os="win">
+											<div class="game_area_sys_req_leftCol">
+							<ul>
+								<strong>Minimum:</strong>
+<br><ul class="bb_ul"><li><strong>OS:</strong> Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1, Windows Vista 64 Bit Service Pack 2* (*NVIDIA video card recommended if running Vista OS)
+<br></li><li><strong>Processor:</strong> Intel Core 2 Quad CPU Q6600 @ 2.40GHz (4 CPUs) / AMD Phenom 9850 Quad-Core Processor (4 CPUs) @ 2.5GHz
+<br></li><li><strong>Memory:</strong> 4 GB RAM
+<br></li><li><strong>Graphics:</strong> NVIDIA 9800 GT 1GB / AMD HD 4870 1GB (DX 10, 10.1, 11)
+<br></li><li><strong>Hard Drive:</strong> 65 GB available space
+<br></li><li><strong>Sound Card:</strong> 100% DirectX 10 compatible
+<br></li><li><strong>Additional Notes:</strong> Over time downloadable content and programming changes will change the system requirements for this game.  Please refer to your hardware manufacturer and <a target="_blank" href="https://steamcommunity.com/linkfilter/?url=http://www.rockstargames.com/support"  >www.rockstargames.com/support</a> for current compatibility information. Some system components such as mobile chipsets, integrated, and AGP graphics cards may be incompatible. Unlisted specifications may not be supported by publisher.     Other requirements:  Installation and online play requires log-in to Rockstar Games Social Club (13+) network; internet connection required for activation, online play, and periodic entitlement verification; software installations required including Rockstar Games Social Club platform, DirectX , Chromium, and Microsoft Visual C++ 2008 sp1 Redistributable Package, and authentication software that recognizes certain hardware attributes for entitlement, digital rights management, system, and other support purposes.     SINGLE USE SERIAL CODE REGISTRATION VIA INTERNET REQUIRED; REGISTRATION IS LIMITED TO ONE ROCKSTAR GAMES SOCIAL CLUB ACCOUNT (13+) PER SERIAL CODE; ONLY ONE PC LOG-IN ALLOWED PER SOCIAL CLUB ACCOUNT AT ANY TIME; SERIAL CODE(S) ARE NON-TRANSFERABLE ONCE USED; SOCIAL CLUB ACCOUNTS ARE NON-TRANSFERABLE.  Partner Requirements:  Please check the terms of service of this site before purchasing this software.
+</li></ul>							</ul>
+						</div>
+																<div class="game_area_sys_req_rightCol">
+							<ul>
+								<strong>Recommended:</strong>
+<br><ul class="bb_ul"><li><strong>OS:</strong> Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1
+<br></li><li><strong>Processor:</strong> Intel Core i5 3470 @ 3.2GHz (4 CPUs) / AMD X8 FX-8350 @ 4GHz (8 CPUs)
+<br></li><li><strong>Memory:</strong> 8 GB RAM
+<br></li><li><strong>Graphics:</strong> NVIDIA GTX 660 2GB / AMD HD 7870 2GB
+<br></li><li><strong>Hard Drive:</strong> 65 GB available space
+<br></li><li><strong>Sound Card:</strong> 100% DirectX 10 compatible
+<br></li><li><strong>Additional Notes:</strong> 
+</li></ul>							</ul>
+						</div>
+										<div style="clear: both;"></div>
+				</div>
+					</div>
+	</div>
+	<script type="text/javascript">
+		$J( function() {
+			var $Tabs = $J('.sysreq_tab');
+			var $Content = $J('.sysreq_content');
+
+			$Tabs.click( function() {
+				var $Tab = $J(this);
+				$Tabs.removeClass('active');
+				$Tab.addClass('active');
+
+				$Content.removeClass('active');
+				$Content.filter('[data-os=' + $Tab.data('os') + ']').addClass('active');
+
+				$Content.trigger('gamepage_autocollapse_expand');
+			});
+		} );
+	</script>
+
+							<div id="game_area_legal">
+					<p>©2008 - 2015 Rockstar Games, Inc. Rockstar Games, Rockstar North, Grand Theft Auto, the GTA Five, and the Rockstar Games R* marks and logos are trademarks and/or registered trademarks of Take-Two Interactive Software, Inc. in the U.S.A. and/or foreign countries.   Dolby and the double-D symbols are trademarks of Dolby Laboratories. Uses Bink Video. Copyright © 1997-2012 by  RAD Game Tools, Inc. euphoria motion synthesis technology provided by NaturalMotion. euphoria code is (c) NaturalMotion 2008. &quot;NaturalMotion&quot;, &quot;euphoria&quot; and the NaturalMotion and euphoria logos are trademarks of NaturalMotion. Used under license. This software product includes Autodesk® Scaleform® software, © 2013 Autodesk, Inc.  All rights reserved The ratings icon is a trademark of the Entertainment Software Association. All other marks and trademarks are properties of their respective owners.  All rights reserved.    <br />
+<br />
+Software license terms in game and www.rockstargames.com/eula; online account terms at www.rockstargames.com/socialclub <br />
+<br />
+Violation of EULA, Code of Conduct, or other policies may result in restriction or termination of access to game or online account. Player data transfer subject to certain limits and requirements, see www.rockstargames.com/gtaonline/charactertransfer for details. For customer&amp; technical support visit www.rockstargames.com/support<br />
+<br />
+Non-transferable access to special features such as exclusive/unlockable/downloadable/online  content/services/functions, such as multiplayer services or bonus content, may require single-use serial code, additional fee, and/or online account registration (13+).  Access to special features may require internet connection, may not be available to all users, and may, upon 30 days notice, be terminated, modified, or offered under different terms.  Unauthorized copying, reverse engineering, transmission, public performance, rental, pay for play, or circumvention of copy protection is strictly prohibited.<br />
+<br />
+The content of this video game is purely fictional, is not intended to represent or depict any actual event, person, or entity, and any such similarities are purely coincidental.  The makers and publishers of this video game do not in any way endorse, condone or encourage engaging in any conduct depicted in this video game.<br />
+<br />
+Rockstar Games, 622 Broadway, New York, NY, 10012  <br />
+T2 Take Two Interactive<br />
+<br />
+For information about online services, fees, restrictions, or software license terms that may apply to this game, please visit  www.rockstargames.com</p>
+				</div>
+			
+			
+											<div class="block" id="recommended_block">
+					<div class="block_header">
+						<div class="right">
+							<a href="http://store.steampowered.com/recommended/morelike/app/271590/?snr=1_5_9__300">See all</a>
+						</div>
+						<h4>More like this</h4>
+					</div>
+					<div class="block_content nopad" id="recommended_block_content">
+					</div>
+				</div>
+							
+			<div id="app_reviews_hash"></div>
+			<script>
+	jQuery( document ).ready(function( $ ) {
+		CollapseLongReviews();
+	});
+</script>
+	<div class="user_reviews_header no_bottom_margin">
+		Helpful customer reviews				<div class="user_reviews_see_all">
+			<a href="http://store.steampowered.com/reviews/?snr=1_5_9_">About Reviews</a>
+		</div>
+			</div>
+	<div class="user_reviews_filter_bar">
+		<span class="user_reviews_filter_text">Filter:</span>
+		<div class="user_reviews_tab active" id="ReviewsTab_all">
+			<a href="javascript:void(0)" onclick="SelectReviews( 271590, 'all', 30, 'english' );">
+				<span>Helpful</span>
+			</a>
+		</div>
+		<div class="user_reviews_tab" id="ReviewsTab_recent">
+			<a href="javascript:void(0)" onclick="SelectReviews( 271590, 'recent', 30, 'english' );">
+				<span>Recent</span>
+			</a>
+		</div>
+		<div class="user_reviews_tab" id="ReviewsTab_positive">
+			<a href="javascript:void(0)" onclick="SelectReviews( 271590, 'positive', 30, 'english' );">
+									<span>Positive </span> <span class="user_reviews_count">(43,483)</span>
+							</a>
+		</div>
+		<div class="user_reviews_tab" id="ReviewsTab_negative">
+			<a href="javascript:void(0)" onclick="SelectReviews( 271590, 'negative', 30, 'english' );">
+									<span>Negative </span> <span class="user_reviews_count">(10,749)</span>
+							</a>
+		</div>
+		<div class="user_reviews_tab" id="ReviewsTab_funny">
+			<a href="javascript:void(0)" onclick="SelectReviews( 271590, 'funny', 30, 'english' );">
+				<span>Funny</span>
+			</a>
+		</div>
+		<div style="clear: left;"></div>
+	</div>
+
+	<div id="LoadingMoreReviewsrecent" style="display: none" class="loading_more_reviews">
+		<img src="http://store.akamai.steamstatic.com/public/shared/images/throbber.gif" class="loading_more_reviews_throbber">
+		Loading reviews...	</div>
+	<div id="LoadingMoreReviewspositive" style="display: none" class="loading_more_reviews">
+		<img src="http://store.akamai.steamstatic.com/public/shared/images/throbber.gif" class="loading_more_reviews_throbber">
+		Loading reviews...	</div>
+	<div id="LoadingMoreReviewsnegative" style="display: none" class="loading_more_reviews">
+		<img src="http://store.akamai.steamstatic.com/public/shared/images/throbber.gif" class="loading_more_reviews_throbber">
+		Loading reviews...	</div>
+	<div id="LoadingMoreReviewsfunny" style="display: none" class="loading_more_reviews">
+		<img src="http://store.akamai.steamstatic.com/public/shared/images/throbber.gif" class="loading_more_reviews_throbber">
+		Loading reviews...	</div>
+
+	<div id="Reviews_positive" style="display: none" class="user_reviews_container"></div>
+	<div id="Reviews_negative" style="display: none" class="user_reviews_container"></div>
+	<div id="Reviews_recent" style="display: none" class="user_reviews_container"></div>
+	<div id="Reviews_funny" style="display: none" class="user_reviews_container"></div>
+	<div id="Reviews_all" class="user_reviews_container">
+			<div id="Reviewsall0">
+			<div class="review_box">
+						<div class="header">
+				8,158 of 9,340 people (87%) found this review helpful								<div class="commentCount"><a href="http://steamcommunity.com/id/BetterThanYourWaifu/recommended/271590/">146 <img src="http://store.akamai.steamstatic.com/public/shared/images/comment_quoteicon.png" align="center"></a></div>
+								<br>5 people found this review funny			</div>
+					<div style="clear: left;"></div>
+
+		<div id="ReviewContentall16311124">
+			<div class="leftcol">
+				<div class="avatar">
+					<a href="http://steamcommunity.com/id/BetterThanYourWaifu/">
+						<div class="playerAvatar offline">
+														<img src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/58/58694249a88d0df8e50a58e32302e044e212bc69.jpg" data-miniprofile="172353887">
+						</div>
+					</a>
+				</div>
+				<div class="persona_name"><a href="http://steamcommunity.com/id/BetterThanYourWaifu/" data-miniprofile="172353887">Utage</a></div>
+								<div class="num_owned_games"><a href="http://steamcommunity.com/id/BetterThanYourWaifu/games/?tab=all">139 products in account</a></div>
+												<div class="num_reviews"><a href="http://steamcommunity.com/id/BetterThanYourWaifu/recommended/">5 reviews</a></div>
+							</div>
+
+			<div class="rightcol">
+				<div class="vote_header">
+					<div class="thumb">
+						<a href="http://steamcommunity.com/id/BetterThanYourWaifu/recommended/271590/"><img src="http://store.akamai.steamstatic.com/public/shared/images/userreviews/icon_thumbsDown_v6.png" width="40" height="40"></a>
+					</div>
+
+					<div class="title"><a href="http://steamcommunity.com/id/BetterThanYourWaifu/recommended/271590/">Not Recommended</a></div>
+										<div class="hours">14.3 hrs on record</div>
+									</div>
+
+				<div class="postedDate">Posted: 11 June									</div>
+
+				
+				<div class="content">
+					Game itself is good, but Rockstar is using a pretty shoddy business practice. They're forcing you to buy the game AND Shark Cards, which are just in-game multiplayer money, while the game is on &quot;sale&quot;.<br><br>This shouldn't be acceptable. It's basically an excuse for them to charge full price for their game while claiming it's on sale.<br><br>UPDATE: For anyone wondering why I said &quot;forced&quot; to buy it bundled. During the first few hours of the sale you couldn't buy GTA V by itself. You had to buy one of the bundles if you wanted the game.					<div class="gradient"></div>
+				</div>
+
+				<div class="posted">
+					<div class="view_more"><a href="#" onclick="UserReviewShowMore('16311124', 'all' ); return false;">Read More</a></div>
+					&nbsp;
+				</div>
+
+				<div class="hr"></div>
+				<div class="control_block">
+
+					<span class="text">Was this review helpful?</span>
+
+										<a href="javascript:void(0)" onclick="UserReviewVoteUp( '16311124' )" class="btnv6_grey_black btn_small_thin ico_hover " id="RecommendationVoteUpBtnall16311124"><span><i class="ico16 thumb_upv6"></i> Yes</span></a>
+					<a href="javascript:void(0)" onclick="UserReviewVoteDown( '16311124' )" class="btnv6_grey_black btn_small_thin ico_hover " id="RecommendationVoteDownBtnall16311124"><span><i class="ico16 thumb_downv6"></i> No</span></a>
+					<a href="javascript:void(0)" onclick="UserReviewVoteTag( '16311124', 1, 'RecommendationVoteTagBtnall16311124_1' )" class="btnv6_grey_black btn_small_thin ico_hover " id="RecommendationVoteTagBtnall16311124_1"><span><i class="ico16 funny"></i> Funny</span></a>
+
+				</div>
+			</div>
+			<div style="clear: left;"></div>
+		</div>
+	</div>
+
+		<div class="review_box">
+						<div class="header">
+				11,591 of 13,290 people (87%) found this review helpful								<div class="commentCount"><a href="http://steamcommunity.com/id/sheswatchinwreslin/recommended/271590/">492 <img src="http://store.akamai.steamstatic.com/public/shared/images/comment_quoteicon.png" align="center"></a></div>
+								<br>11 people found this review funny			</div>
+					<div style="clear: left;"></div>
+
+		<div id="ReviewContentall16309760">
+			<div class="leftcol">
+				<div class="avatar">
+					<a href="http://steamcommunity.com/id/sheswatchinwreslin/">
+						<div class="playerAvatar online">
+														<img src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/f6/f66b63de786ee2156cd504c416c32e659e33e5d8.jpg" data-miniprofile="70527420">
+						</div>
+					</a>
+				</div>
+				<div class="persona_name"><a href="http://steamcommunity.com/id/sheswatchinwreslin/" data-miniprofile="70527420">Tesc</a></div>
+								<div class="num_owned_games"><a href="http://steamcommunity.com/id/sheswatchinwreslin/games/?tab=all">847 products in account</a></div>
+												<div class="num_reviews"><a href="http://steamcommunity.com/id/sheswatchinwreslin/recommended/">1 review</a></div>
+							</div>
+
+			<div class="rightcol">
+				<div class="vote_header">
+					<div class="thumb">
+						<a href="http://steamcommunity.com/id/sheswatchinwreslin/recommended/271590/"><img src="http://store.akamai.steamstatic.com/public/shared/images/userreviews/icon_thumbsDown_v6.png" width="40" height="40"></a>
+					</div>
+
+					<div class="title"><a href="http://steamcommunity.com/id/sheswatchinwreslin/recommended/271590/">Not Recommended</a></div>
+										<div class="hours">35.5 hrs on record</div>
+									</div>
+
+				<div class="postedDate">Posted: 11 June									</div>
+
+				
+				<div class="content">
+					Changed price to $79 right before summer sale. ♥♥♥♥ move.					<div class="gradient"></div>
+				</div>
+
+				<div class="posted">
+					<div class="view_more"><a href="#" onclick="UserReviewShowMore('16309760', 'all' ); return false;">Read More</a></div>
+					&nbsp;
+				</div>
+
+				<div class="hr"></div>
+				<div class="control_block">
+
+					<span class="text">Was this review helpful?</span>
+
+										<a href="javascript:void(0)" onclick="UserReviewVoteUp( '16309760' )" class="btnv6_grey_black btn_small_thin ico_hover " id="RecommendationVoteUpBtnall16309760"><span><i class="ico16 thumb_upv6"></i> Yes</span></a>
+					<a href="javascript:void(0)" onclick="UserReviewVoteDown( '16309760' )" class="btnv6_grey_black btn_small_thin ico_hover " id="RecommendationVoteDownBtnall16309760"><span><i class="ico16 thumb_downv6"></i> No</span></a>
+					<a href="javascript:void(0)" onclick="UserReviewVoteTag( '16309760', 1, 'RecommendationVoteTagBtnall16309760_1' )" class="btnv6_grey_black btn_small_thin ico_hover " id="RecommendationVoteTagBtnall16309760_1"><span><i class="ico16 funny"></i> Funny</span></a>
+
+				</div>
+			</div>
+			<div style="clear: left;"></div>
+		</div>
+	</div>
+
+		<div class="review_box">
+						<div class="header">
+				6,378 of 7,295 people (87%) found this review helpful								<div class="commentCount"><a href="http://steamcommunity.com/id/calvero/recommended/271590/">52 <img src="http://store.akamai.steamstatic.com/public/shared/images/comment_quoteicon.png" align="center"></a></div>
+								<br>17 people found this review funny			</div>
+					<div style="clear: left;"></div>
+
+		<div id="ReviewContentall16309890">
+			<div class="leftcol">
+				<div class="avatar">
+					<a href="http://steamcommunity.com/id/calvero/">
+						<div class="playerAvatar in-game">
+														<img src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/d3/d3bbc3fbb1b9d93d7c4f694126052f51b91d528d.jpg" data-miniprofile="584388">
+						</div>
+					</a>
+				</div>
+				<div class="persona_name"><a href="http://steamcommunity.com/id/calvero/" data-miniprofile="584388">calvero</a></div>
+								<div class="num_owned_games"><a href="http://steamcommunity.com/id/calvero/games/?tab=all">49 products in account</a></div>
+												<div class="num_reviews"><a href="http://steamcommunity.com/id/calvero/recommended/">1 review</a></div>
+							</div>
+
+			<div class="rightcol">
+				<div class="vote_header">
+					<div class="thumb">
+						<a href="http://steamcommunity.com/id/calvero/recommended/271590/"><img src="http://store.akamai.steamstatic.com/public/shared/images/userreviews/icon_thumbsDown_v6.png" width="40" height="40"></a>
+					</div>
+
+					<div class="title"><a href="http://steamcommunity.com/id/calvero/recommended/271590/">Not Recommended</a></div>
+										<div class="hours">96.9 hrs on record</div>
+									</div>
+
+				<div class="postedDate">Posted: 11 June									</div>
+
+				
+				<div class="content">
+					Garbage always-online &quot;periodic entitlement verification&quot; DRM treating actual paying customers like thieves.  Cheaters rampant online.  Lobbies constantly implode.  They're also pulling some shady stuff during the summer sale to avoid actually lowering the price.					<div class="gradient"></div>
+				</div>
+
+				<div class="posted">
+					<div class="view_more"><a href="#" onclick="UserReviewShowMore('16309890', 'all' ); return false;">Read More</a></div>
+					&nbsp;
+				</div>
+
+				<div class="hr"></div>
+				<div class="control_block">
+
+					<span class="text">Was this review helpful?</span>
+
+										<a href="javascript:void(0)" onclick="UserReviewVoteUp( '16309890' )" class="btnv6_grey_black btn_small_thin ico_hover " id="RecommendationVoteUpBtnall16309890"><span><i class="ico16 thumb_upv6"></i> Yes</span></a>
+					<a href="javascript:void(0)" onclick="UserReviewVoteDown( '16309890' )" class="btnv6_grey_black btn_small_thin ico_hover " id="RecommendationVoteDownBtnall16309890"><span><i class="ico16 thumb_downv6"></i> No</span></a>
+					<a href="javascript:void(0)" onclick="UserReviewVoteTag( '16309890', 1, 'RecommendationVoteTagBtnall16309890_1' )" class="btnv6_grey_black btn_small_thin ico_hover " id="RecommendationVoteTagBtnall16309890_1"><span><i class="ico16 funny"></i> Funny</span></a>
+
+				</div>
+			</div>
+			<div style="clear: left;"></div>
+		</div>
+	</div>
+
+		<div class="review_box">
+						<div class="header">
+				4,135 of 4,717 people (88%) found this review helpful								<div class="commentCount"><a href="http://steamcommunity.com/id/JerichoVictorNocte/recommended/271590/">43 <img src="http://store.akamai.steamstatic.com/public/shared/images/comment_quoteicon.png" align="center"></a></div>
+								<br>2 people found this review funny			</div>
+					<div style="clear: left;"></div>
+
+		<div id="ReviewContentall16310687">
+			<div class="leftcol">
+				<div class="avatar">
+					<a href="http://steamcommunity.com/id/JerichoVictorNocte/">
+						<div class="playerAvatar in-game">
+														<img src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/be/beacb994bfe80dc0fccf27abb6f5f9c0d4723da4.jpg" data-miniprofile="50726209">
+						</div>
+					</a>
+				</div>
+				<div class="persona_name"><a href="http://steamcommunity.com/id/JerichoVictorNocte/" data-miniprofile="50726209">[S|B] Jericho ★VioletSkyy★</a></div>
+								<div class="num_owned_games"><a href="http://steamcommunity.com/id/JerichoVictorNocte/games/?tab=all">110 products in account</a></div>
+												<div class="num_reviews"><a href="http://steamcommunity.com/id/JerichoVictorNocte/recommended/">2 reviews</a></div>
+							</div>
+
+			<div class="rightcol">
+				<div class="vote_header">
+					<div class="thumb">
+						<a href="http://steamcommunity.com/id/JerichoVictorNocte/recommended/271590/"><img src="http://store.akamai.steamstatic.com/public/shared/images/userreviews/icon_thumbsDown_v6.png" width="40" height="40"></a>
+					</div>
+
+					<div class="title"><a href="http://steamcommunity.com/id/JerichoVictorNocte/recommended/271590/">Not Recommended</a></div>
+										<div class="hours">74.5 hrs on record</div>
+									</div>
+
+				<div class="postedDate">Posted: 11 June									</div>
+
+				
+				<div class="content">
+					Rockstar decided to become greedy at the sight of the sweet, sweet steam summer sale. 0/10 would not recommend again.<br><br>****Update****<br><br>Okay, so some people don't understand why people, including myself, are mad that the base game is not on sale. When Steam's Summer Sale first began, the base game of GTA V was on sale for $30, but it was only at that price for roughly 10-20 minutes. Instead of keeping it at that price, they decided they could con buyers by raising the base game's price back to normal and instead add a shark card to make it appear as if the game was still on sale, which, as countless others have stated, is shady business. I'm not mad that the base game isn't on sale; it's their right as a company to not have to put it on sale. I'm just mad that they would use the aforementioned tactics.					<div class="gradient"></div>
+				</div>
+
+				<div class="posted">
+					<div class="view_more"><a href="#" onclick="UserReviewShowMore('16310687', 'all' ); return false;">Read More</a></div>
+					&nbsp;
+				</div>
+
+				<div class="hr"></div>
+				<div class="control_block">
+
+					<span class="text">Was this review helpful?</span>
+
+										<a href="javascript:void(0)" onclick="UserReviewVoteUp( '16310687' )" class="btnv6_grey_black btn_small_thin ico_hover " id="RecommendationVoteUpBtnall16310687"><span><i class="ico16 thumb_upv6"></i> Yes</span></a>
+					<a href="javascript:void(0)" onclick="UserReviewVoteDown( '16310687' )" class="btnv6_grey_black btn_small_thin ico_hover " id="RecommendationVoteDownBtnall16310687"><span><i class="ico16 thumb_downv6"></i> No</span></a>
+					<a href="javascript:void(0)" onclick="UserReviewVoteTag( '16310687', 1, 'RecommendationVoteTagBtnall16310687_1' )" class="btnv6_grey_black btn_small_thin ico_hover " id="RecommendationVoteTagBtnall16310687_1"><span><i class="ico16 funny"></i> Funny</span></a>
+
+				</div>
+			</div>
+			<div style="clear: left;"></div>
+		</div>
+	</div>
+
+		<div class="review_box">
+						<div class="header">
+				2,413 of 2,736 people (88%) found this review helpful								<div class="commentCount"><a href="http://steamcommunity.com/id/hermanmango/recommended/271590/">10 <img src="http://store.akamai.steamstatic.com/public/shared/images/comment_quoteicon.png" align="center"></a></div>
+								<br>1 person found this review funny			</div>
+					<div style="clear: left;"></div>
+
+		<div id="ReviewContentall16310286">
+			<div class="leftcol">
+				<div class="avatar">
+					<a href="http://steamcommunity.com/id/hermanmango/">
+						<div class="playerAvatar in-game">
+														<img src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/44/445eb43be20f598d0e7da3e38532a551d9f88b2e.jpg" data-miniprofile="12322109">
+						</div>
+					</a>
+				</div>
+				<div class="persona_name"><a href="http://steamcommunity.com/id/hermanmango/" data-miniprofile="12322109">EscHermanMango</a></div>
+								<div class="num_owned_games"><a href="http://steamcommunity.com/id/hermanmango/games/?tab=all">161 products in account</a></div>
+												<div class="num_reviews"><a href="http://steamcommunity.com/id/hermanmango/recommended/">4 reviews</a></div>
+							</div>
+
+			<div class="rightcol">
+				<div class="vote_header">
+					<div class="thumb">
+						<a href="http://steamcommunity.com/id/hermanmango/recommended/271590/"><img src="http://store.akamai.steamstatic.com/public/shared/images/userreviews/icon_thumbsDown_v6.png" width="40" height="40"></a>
+					</div>
+
+					<div class="title"><a href="http://steamcommunity.com/id/hermanmango/recommended/271590/">Not Recommended</a></div>
+										<div class="hours">31.1 hrs on record</div>
+									</div>
+
+				<div class="postedDate">Posted: 11 June									</div>
+
+				
+				<div class="content">
+					raise the price right before the summer sale so it can go for &quot;sale&quot; at the same price as before. Way to be cheap R*<br><br>To help the simple people who don't get it understand. The problem is this is how they treat their customers, you pay full price for a two year old game and are met with rampant cheaters, overpriced content, and credit card unlocks. Essentially you pay 60 dollars for a game that is run like other pay-to-win free games. Sorry for the ambiguity, I supposed expecting everyone to be able to put 2 and 2 together was a bit much to expect.					<div class="gradient"></div>
+				</div>
+
+				<div class="posted">
+					<div class="view_more"><a href="#" onclick="UserReviewShowMore('16310286', 'all' ); return false;">Read More</a></div>
+					&nbsp;
+				</div>
+
+				<div class="hr"></div>
+				<div class="control_block">
+
+					<span class="text">Was this review helpful?</span>
+
+										<a href="javascript:void(0)" onclick="UserReviewVoteUp( '16310286' )" class="btnv6_grey_black btn_small_thin ico_hover " id="RecommendationVoteUpBtnall16310286"><span><i class="ico16 thumb_upv6"></i> Yes</span></a>
+					<a href="javascript:void(0)" onclick="UserReviewVoteDown( '16310286' )" class="btnv6_grey_black btn_small_thin ico_hover " id="RecommendationVoteDownBtnall16310286"><span><i class="ico16 thumb_downv6"></i> No</span></a>
+					<a href="javascript:void(0)" onclick="UserReviewVoteTag( '16310286', 1, 'RecommendationVoteTagBtnall16310286_1' )" class="btnv6_grey_black btn_small_thin ico_hover " id="RecommendationVoteTagBtnall16310286_1"><span><i class="ico16 funny"></i> Funny</span></a>
+
+				</div>
+			</div>
+			<div style="clear: left;"></div>
+		</div>
+	</div>
+
+				<div id="LoadMoreReviewsall" class="load_more_reviews_btn">
+				<a href="javascript:void(0);" onclick="LoadMoreReviews( 271590, 5, 30, 'all', 'english' );" class="btnv6_blue_blue_innerfade btn_medium">
+					<span>Load More Reviews</span>
+				</a>
+			</div>
+						<div id="ViewAllReviewsall" class="view_all_reviews_btn">
+				<a href="http://steamcommunity.com/app/271590/reviews/?browsefilter=toprated&snr=1_5_9_">Browse all 24,321 reviews</a>
+			</div>
+						<div id="LoadingMoreReviewsall" style="display: none" class="loading_more_reviews">
+				<img src="http://store.akamai.steamstatic.com/public/shared/images/throbber.gif" class="loading_more_reviews_throbber">
+				Loading reviews...			</div>
+		</div>
+			</div>
+		
+		</div>
+
+	<!-- Right Column -->
+		<div class="rightcol game_meta_data">
+
+
+
+		
+        
+		<div class="block" id="demo_block">
+            <a class="btnv6_blue_hoverfade btn_medium" href="#" onclick="ShowShareDialog(); return false;"><span>Share</span></a>
+            <a class="btnv6_blue_hoverfade btn_medium" href="#" onclick="ShowEmbedWidget(271590); return false;"><span>Embed</span></a>
+            <a id="ReportAppBtn" class="btnv6_blue_hoverfade btn_medium" href="javascript:void(0)" onclick="ShowReportDialog(271590)"><span data-store-tooltip="Report this Product"><i class="ico16 reportv6"></i>&nbsp;</span></a>
+		</div>
+
+		
+
+			
+
+
+
+
+            
+
+					<div class="block" id="category_block">
+
+			<div class="game_area_details_specs"><div class="icon"><a href="http://store.steampowered.com/search/?category2=2&snr=1_5_9__423"><img class="category_icon" src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_singlePlayer.png"></a></div><a class="name" href="http://store.steampowered.com/search/?category2=2&snr=1_5_9__423">Single-player</a></div><div class="game_area_details_specs"><div class="icon"><a href="http://store.steampowered.com/search/?category2=1&snr=1_5_9__423"><img class="category_icon" src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_multiPlayer.png"></a></div><a class="name" href="http://store.steampowered.com/search/?category2=1&snr=1_5_9__423">Multi-player</a></div><div class="game_area_details_specs"><div class="icon"><a href="http://store.steampowered.com/search/?category2=22&snr=1_5_9__423"><img class="category_icon" src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_achievements.png"></a></div><a class="name" href="http://store.steampowered.com/search/?category2=22&snr=1_5_9__423">Steam Achievements</a></div><div class="game_area_details_specs"><div class="icon"><a href="http://store.steampowered.com/search/?category2=28&snr=1_5_9__423"><img class="category_icon" src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_controller.png"></a></div><a class="name" href="http://store.steampowered.com/search/?category2=28&snr=1_5_9__423">Full controller support</a></div>
+            
+			        </div>
+		
+					<div class="block">
+				<div class="block_title">
+					Languages:
+				</div>
+
+				
+<table  class="game_language_options" cellpadding="0" cellspacing="0">
+	<tr>
+		<th style="width: 94px;"></th>
+				<th class="checkcol">Interface</th>
+		<th class="checkcol">Full Audio</th>
+		<th class="checkcol">Subtitles</th>
+	</tr>
+
+			<tr style="" class="">
+			<td style="width: 94px; text-align: left" class="ellipsis">
+				English			</td>
+							<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+				<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+				<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+					</tr>
+			<tr style="" class="">
+			<td style="width: 94px; text-align: left" class="ellipsis">
+				French			</td>
+							<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+				<td class="checkcol">
+									</td>
+				<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+					</tr>
+			<tr style="" class="">
+			<td style="width: 94px; text-align: left" class="ellipsis">
+				Italian			</td>
+							<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+				<td class="checkcol">
+									</td>
+				<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+					</tr>
+			<tr style="" class="">
+			<td style="width: 94px; text-align: left" class="ellipsis">
+				German			</td>
+							<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+				<td class="checkcol">
+									</td>
+				<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+					</tr>
+			<tr style="" class="">
+			<td style="width: 94px; text-align: left" class="ellipsis">
+				Spanish			</td>
+							<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+				<td class="checkcol">
+									</td>
+				<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+					</tr>
+			<tr style="display: none;" class="">
+			<td style="width: 94px; text-align: left" class="ellipsis">
+				Korean			</td>
+							<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+				<td class="checkcol">
+									</td>
+				<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+					</tr>
+			<tr style="display: none;" class="">
+			<td style="width: 94px; text-align: left" class="ellipsis">
+				Polish			</td>
+							<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+				<td class="checkcol">
+									</td>
+				<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+					</tr>
+			<tr style="display: none;" class="">
+			<td style="width: 94px; text-align: left" class="ellipsis">
+				Portuguese-Brazil			</td>
+							<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+				<td class="checkcol">
+									</td>
+				<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+					</tr>
+			<tr style="display: none;" class="">
+			<td style="width: 94px; text-align: left" class="ellipsis">
+				Russian			</td>
+							<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+				<td class="checkcol">
+									</td>
+				<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+					</tr>
+			<tr style="display: none;" class="">
+			<td style="width: 94px; text-align: left" class="ellipsis">
+				Traditional Chinese			</td>
+							<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+				<td class="checkcol">
+									</td>
+				<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+					</tr>
+			<tr style="display: none;" class="">
+			<td style="width: 94px; text-align: left" class="ellipsis">
+				Japanese			</td>
+							<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+				<td class="checkcol">
+									</td>
+				<td class="checkcol">
+					 <img src="http://store.akamai.steamstatic.com/public/images/v6/ico/ico_bluecheck.png"/> 				</td>
+					</tr>
+	</table>
+	<a class="all_languages" onclick="$J('table.game_language_options tr').show(); $J(this).hide(); return false">See all 11 supported languages</a>
+
+			</div>
+		
+					<div class="block">
+									<div id="game_area_metascore">
+						<span>96</span><span class="ms_slash">/</span><span class="ms_base">100</span>
+					</div>
+											<div id="game_area_metalink"><a href="http://www.metacritic.com/game/pc/grand-theft-auto-v" target="_blank">Read Critic Reviews</a> <img src="http://store.akamai.steamstatic.com/public/images/ico/iconExternalLink.gif" border="0" align="bottom"></div>
+												</div>
+		
+		
+					<div class="block" id="achievement_block">
+				<div class="block_title">
+					Includes 60 Steam Achievements				</div>
+				<div class="communitylink_achievement_images">
+											<div class="communitylink_achievement">
+							<img class="communitylink_achievement" title="A Mystery, Solved" src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271590/ecab7eb6da462803fd6e85d40b78c6907fc76cda.jpg">
+						</div>
+												<div class="communitylink_achievement">
+							<img class="communitylink_achievement" title="Dead Presidents" src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271590/86563b454d24b90b8ad90d504600e2b380b41fb3.jpg">
+						</div>
+												<div class="communitylink_achievement">
+							<img class="communitylink_achievement" title="Multi-Disciplined" src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271590/01bff94c98380e158d0175075127b03e0c9bf7ac.jpg">
+						</div>
+																	<a class="communitylink_achievement communitylink_achivement_plusmore" href="http://steamcommunity.com/stats/271590/achievements">
+							View<br>all 60						</a>
+										<div style="clear: left;"></div>
+				</div>
+			</div>
+		
+
+            <div class="block game_details underlined_links">
+				<div class="block_content">
+					<div class="block_content_inner">
+						<div class="details_block">
+	<b>Title:</b> Grand Theft Auto V<br>
+
+			<b>Genre:</b> <a href="http://store.steampowered.com/genre/Action/?snr=1_5_9__408">Action</a>, <a href="http://store.steampowered.com/genre/Adventure/?snr=1_5_9__408">Adventure</a><br>
+	
+			<b>Developer:</b>
+								<a href="http://store.steampowered.com/search/?developer=Rockstar%20North&snr=1_5_9__408">Rockstar North</a>
+				<br>
+	
+			<b>Publisher:</b>
+		<a href="http://store.steampowered.com/search/?publisher=Rockstar Games">Rockstar Games</a>		<br>
+	
+	
+			<b>Release Date:</b> 14 Apr, 2015<br>
+	
+	</div>
+
+
+<div class="details_block">
+	<br>
+
+			<a class="linkbar" href="http://www.rockstargames.com/V/" target="_blank">
+			Visit the website <img src="http://store.akamai.steamstatic.com/public/images/v5/ico_external_link.gif" border="0" align="bottom">
+		</a>
+	
+	
+	
+	
+	
+			<a class="linkbar" href="http://store.steampowered.com/news/?appids=271590">
+			View update history		</a>
+		<a class="linkbar" href="http://store.steampowered.com/news/?appids=271590">
+			Read related news		</a>
+	
+			<a class="linkbar" href="http://steamcommunity.com/app/271590/discussions/">
+			View discussions		</a>
+	
+		<a class="linkbar" href="http://steamcommunity.com/actions/Search?T=ClanAccount&K=Grand%20Theft%20Auto%20V">
+		Find Community Groups	</a>
+</div>					</div>
+				</div>
+							</div>
+
+			
+			
+			<br>
+
+
+		</div>
+			</div>
+		<!-- End Right Column -->
+		<div style="clear: both;"></div>
+
+				<div class="hover game_hover" id="global_hover" style="display: none; left: 0; top: 0;">
+			<div class="game_hover_box hover_box">
+				<div class="content" id="global_hover_content">
+				</div>
+			</div>
+			<div class="hover_arrow_left"></div>
+			<div class="hover_arrow_right"></div>
+		</div>
+	</div>
+	</div>
+</div>
+
+
+<!-- Footer -->
+<div id="footer_spacer" class=""></div>
+<div id="footer"  class="">
+<div class="footer_content">
+	<div class="rule"></div>
+
+	<div id="footer_nav">
+
+		
+					<span class="pulldown btnv6_blue_hoverfade btn_small" id="footer_genre_pulldown">
+					<span>SHOP BY GENRE</span>
+				</span>
+			<div class="popup_block_new" id="footer_genre_dropdown" style="display: none;">
+				<div class="popup_body popup_menu">
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Free%20to%20Play?snr=1_44_44__20">
+							Free to Play						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Action?snr=1_44_44__20">
+							Action						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Adventure?snr=1_44_44__20">
+							Adventure						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Strategy?snr=1_44_44__20">
+							Strategy						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/RPG?snr=1_44_44__20">
+							RPG						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Indie?snr=1_44_44__20">
+							Indie						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Massively%20Multiplayer?snr=1_44_44__20">
+							Massively Multiplayer						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Casual?snr=1_44_44__20">
+							Casual						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Simulation?snr=1_44_44__20">
+							Simulation						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Racing?snr=1_44_44__20">
+							Racing						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Sports?snr=1_44_44__20">
+							Sports						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Accounting?snr=1_44_44__20">
+							Accounting						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Animation%20%26%20Modeling?snr=1_44_44__20">
+							Animation & Modeling						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Audio%20Production?snr=1_44_44__20">
+							Audio Production						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Design%20%26%20Illustration?snr=1_44_44__20">
+							Design & Illustration						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Education?snr=1_44_44__20">
+							Education						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Photo%20Editing?snr=1_44_44__20">
+							Photo Editing						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Software%20Training?snr=1_44_44__20">
+							Software Training						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Utilities?snr=1_44_44__20">
+							Utilities						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Video%20Production?snr=1_44_44__20">
+							Video Production						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Web%20Publishing?snr=1_44_44__20">
+							Web Publishing						</a>
+											<a class="popup_menu_item" href="http://store.steampowered.com/genre/Early%20Access?snr=1_44_44__20">
+							Early Access						</a>
+									</div>
+			</div>
+					
+			<span class="pulldown btnv6_blue_hoverfade btn_small" id="footer_steam_pulldown">
+				<span>ABOUT STEAM</span>
+			</span>
+		<div class="popup_block_new" id="footer_steam_dropdown" style="display: none;">
+						<div class="popup_body popup_menu">
+				<a class="popup_menu_item" href="http://store.steampowered.com/about/?snr=1_44_44__22">
+					What is Steam?				</a>
+				<!--
+					<a class="popup_menu_item" href="">
+						Download Steam now					</a>
+					-->
+				<a class="popup_menu_item" target="_blank" href="https://support.steampowered.com/kb_article.php?p_faqid=549#gifts">
+					Gifting on Steam				</a>
+				<a class="popup_menu_item" href="https://steamcommunity.com/?snr=1_44_44__22">
+					The Steam Community				</a>
+			</div>
+					</div>
+	
+			<span class="pulldown btnv6_blue_hoverfade btn_small" id="footer_valve_pulldown">
+				<span>ABOUT VALVE</span>
+			</span>
+		<div class="popup_block_new" id="footer_valve_dropdown" style="display: none;">
+			<div class="popup_body popup_menu">
+				<a class="popup_menu_item" target="_blank" href="http://www.valvesoftware.com/about.html">
+					About Valve				</a>
+				<a class="popup_menu_item" target="_blank" href="http://www.valvesoftware.com/business/">
+					Business Solutions				</a>
+				<a class="popup_menu_item" target="_blank" href="http://www.steampowered.com/steamworks/">
+					Steamworks				</a>
+				<a class="popup_menu_item" target="_blank" href="http://www.valvesoftware.com/jobs.html">
+					Jobs				</a>
+			</div>
+		</div>
+			
+			
+			<span class="pulldown btnv6_blue_hoverfade btn_small" id="footer_help_pulldown">
+				<span>HELP</span>
+			</span>
+		<div class="popup_block_new" id="footer_help_dropdown" style="display: none;">
+						<div class="popup_body popup_menu">
+				<a class="popup_menu_item" target="_blank" href="http://support.steampowered.com/">
+					Support				</a>
+				<a class="popup_menu_item" target="_blank" href="http://store.steampowered.com/forums/?snr=1_44_44__23">
+					Forums				</a>
+				<a class="popup_menu_item" target="_blank" href="http://store.steampowered.com/stats/?snr=1_44_44__23">
+					Stats				</a>
+			</div>
+					</div>
+
+			
+			<span class="pulldown btnv6_blue_hoverfade btn_small" id="footer_feeds_pulldown">
+				<span>NEWS FEEDS</span>
+			</span>
+		<div class="popup_block_new" id="footer_feeds_dropdown" style="display: none;">
+			<div class="popup_body popup_menu">
+				<a class="popup_menu_item" href="http://store.steampowered.com/feeds/news.xml">
+					<img src="http://store.akamai.steamstatic.com/public/images/ico/ico_rss2.gif" width="13" height="13" border="0" alt="" align="top">&nbsp;&nbsp;Steam News				</a>
+				<a class="popup_menu_item" href="http://store.steampowered.com/feeds/newreleases.xml">
+					<img src="http://store.akamai.steamstatic.com/public/images/ico/ico_rss2.gif" width="13" height="13" border="0" alt="" align="top">&nbsp;&nbsp;Game Releases				</a>
+				<a class="popup_menu_item" href="http://store.steampowered.com/feeds/daily_deals.xml">
+					<img src="http://store.akamai.steamstatic.com/public/images/ico/ico_rss2.gif" width="13" height="13" border="0" alt="" align="top">&nbsp;&nbsp;Daily Deals				</a>
+			</div>
+		</div>
+		<div style="clear: left;"></div>
+
+		<script type="text/javascript">
+			RegisterFlyout( 'footer_genre_pulldown', 'footer_genre_dropdown', null, null, true );
+			RegisterFlyout( 'footer_steam_pulldown', 'footer_steam_dropdown', null, null, true );
+			RegisterFlyout( 'footer_valve_pulldown', 'footer_valve_dropdown', null, null, true );
+			RegisterFlyout( 'footer_help_pulldown', 'footer_help_dropdown', null, null, true );
+			RegisterFlyout( 'footer_feeds_pulldown', 'footer_feeds_dropdown', null, null, true );
+		</script>
+	</div>
+
+	<br>
+
+    <div class="rule"></div>
+    <div id="footer_logo"><a target="_blank" href="http://www.valvesoftware.com"><img src="http://store.akamai.steamstatic.com/public/images/v6/logo_valve_footer.png" alt="Valve Software" border="0" /></a></div>
+    <div id="footer_text">
+        <div>&copy; 2015 Valve Corporation.  All rights reserved.  All trademarks are property of their respective owners in the US and other countries.</div>
+        <div>VAT included in all prices where applicable.&nbsp;&nbsp;
+
+            <a target="_blank" href="http://store.steampowered.com/privacy_agreement/">Privacy Policy</a>
+            &nbsp; | &nbsp;
+            <a target="_blank" href="http://www.valvesoftware.com/legal.htm">Legal</a>
+            &nbsp; | &nbsp;
+            <a target="_blank" href="http://store.steampowered.com/subscriber_agreement/">Steam Subscriber Agreement</a>
+            &nbsp; | &nbsp;
+            <a target="_blank" href="http://store.steampowered.com/steam_refunds/">Refunds</a>
+            
+        </div>
+    </div>
+
+
+    <div style="clear: left;"></div>
+
+    <div class="rule"></div>
+
+    <div class="valve_links">
+        <a target="_blank" href="http://www.valvesoftware.com/about.html">About Valve</a>
+        &nbsp; | &nbsp;<a target="_blank" href="http://www.valvesoftware.com/business/">Business Solutions</a>
+        &nbsp; | &nbsp;<a target="_blank" href="http://www.steampowered.com/steamworks/">Steamworks</a>
+        &nbsp; | &nbsp;<a target="_blank" href="http://www.valvesoftware.com/jobs.html">Jobs</a>
+        &nbsp; | &nbsp;<a target="_blank" href="http://steamcommunity.com/greenlight">Steam Distribution</a>
+		&nbsp; | &nbsp;<a target="_blank" href="http://www.facebook.com/Steam"><img src="http://store.akamai.steamstatic.com/public/images/ico/ico_facebook.gif"> Steam</a>
+		&nbsp; | &nbsp;<a target="_blank" href="http://twitter.com/steam_games"><img src="http://store.akamai.steamstatic.com/public/images/ico/ico_twitter.gif"> @steam_games</a>
+    </div>
+
+</div>
+</div><script type="text/javascript">$J( function() {ReplaceDynamicLink( 'dynamiclink_0', "<div class=\"dynamiclink_box \" onclick=\"DynamicLink_PlayYouTubeVideoInline( this, &quot;So77SI_Ax_U&quot; );\">\r\n\t<img class=\"dynamiclink_preview\" src=\"http:\/\/img.youtube.com\/vi\/So77SI_Ax_U\/1.jpg\">\r\n\t<div class=\"dynamiclink_content\">\r\n\t\t<div class=\"dynamiclink_name\"><span class=\"dynamiclink_type\">YouTube\u2122 Video: <\/span>GTA Online Sessions: ILL-GOTTEN GAINS Part One Featuring Funhaus + Lui Calibre + Lazlow&nbsp;<\/div>\r\n\t\t<div class=\"dynamiclink_youtubeviews\">\r\n\t\t\tViews: 111,120\t\t<\/div>\r\n\t\t<div class=\"dynamiclink_description\">\r\n\t\t\tGTA Online Sessions: ILL-GOTTEN GAINS Part 1 \u2013 playing challenges and Jobs featuring brand new ILL-GOTTEN GAINS Update content with special guests Adam Kovic, Bruce Greene, James Willems, Lawrence...\t\t<\/div>\r\n\t<\/div>\r\n<\/div>" );} );</script><!-- End Footer -->
+
+<div id="EmbedModal"  style="display: none">
+	<div id="widget_create">
+		<p>You can use this widget-maker to generate a bit of HTML that can be embedded in your website to easily allow customers to purchase this game on Steam.</p>
+
+				<p class="small">Enter up to 375 characters to add a description to your widget:</p>
+		<textarea name="w_text" placeholder="Due to a surge in high-end crime across southern San Andreas, demand for luxury goods and services is at an all-time high. Upscale merchants of all kinds are scrambling to fill their inventories to serve the newly wealthy as part of the Ill-Gotten Gains Update." maxlength="375"></textarea>
+
+		<div class="buttoncontainer">
+			<a class="btnv6_blue_hoverfade btn_medium " href="#" onclick="CreateWidget(271590); return false;"><span>Create widget</span></a>
+		</div>
+	</div>
+	<div id="widget_finished" style="display: none;">
+		<div id="widget_container"></div>
+
+		<p class="small">Copy and paste the HTML below into your website to make the above widget appear</p>
+		<textarea id="widget_code" style=""></textarea>
+	</div>
+
+</div>
+</div>
+
+<div id="ShareModal" style="display: none">
+	<div class="share">Share:&nbsp; <a target="_blank" href="http://store.steampowered.com/share/facebook/app/271590" title="Share on Facebook"><img src="http://store.akamai.steamstatic.com/public/images/v5/social/facebook.gif"></a>&nbsp; <a target="_blank" href="http://store.steampowered.com/share/twitter/app/271590" title="Share on Twitter"><img src="http://store.akamai.steamstatic.com/public/images/v5/social/twitter.gif"></a>&nbsp; <a target="_blank" href="http://store.steampowered.com/share/reddit/app/271590" title="Share on Reddit"><img src="http://store.akamai.steamstatic.com/public/images/v5/social/reddit.gif"></a></div></div>
+
+	<div id="app_tagging_modal" class="app_tag_modal nologin" style="display: none;">
+		<div class="app_tag_modal_content">
+			<div class="app_tag_modal_seperator"></div>
+			<div class="app_tag_modal_left">
+				<h2>Popular user-defined tags for this product:<span class="app_tag_modal_tooltip" data-store-tooltip="These are tags applied to the product by the most users.  You can click a tag to find other products with that tag applied.  Or, you can hit the plus symbol for any existing tags to increase that tag's popularity on this product.">(?)</span></h2>
+				<div class="app_tags popular_tags">
+				</div>
+			</div>
+			<div class="app_tag_modal_right">
+									<h2>Sign in</h2>
+					<p>Sign in to add your own tags to this product.</p>
+					<p>
+						<a class="btnv6_blue_hoverfade btn_medium" href="https://store.steampowered.com/login/?redir=app/271590">
+							<span>Sign in</span>
+						</a>
+					</p>
+							</div>
+			<div style="clear: both;"></div>
+		</div>
+	</div>
+		<script type="text/javascript">
+		$J( function() {
+			InitAppTagModal( 271590,
+				[{"tagid":1695,"name":"Open World","count":13272,"browseable":true},{"tagid":19,"name":"Action","count":10016,"browseable":true},{"tagid":3859,"name":"Multiplayer","count":8309,"browseable":true},{"tagid":3839,"name":"First-Person","count":8130,"browseable":true},{"tagid":1697,"name":"Third Person","count":8124,"browseable":true},{"tagid":6378,"name":"Crime","count":7430,"browseable":true},{"tagid":21,"name":"Adventure","count":5949,"browseable":true},{"tagid":3814,"name":"Third-Person Shooter","count":5248,"browseable":true},{"tagid":4166,"name":"Atmospheric","count":5157,"browseable":true},{"tagid":1774,"name":"Shooter","count":5093,"browseable":true},{"tagid":4182,"name":"Singleplayer","count":4964,"browseable":true},{"tagid":3810,"name":"Sandbox","count":4583,"browseable":true},{"tagid":5611,"name":"Mature","count":4516,"browseable":true},{"tagid":699,"name":"Racing","count":4342,"browseable":true},{"tagid":1685,"name":"Co-op","count":4147,"browseable":true},{"tagid":1756,"name":"Great Soundtrack","count":4113,"browseable":true},{"tagid":4136,"name":"Funny","count":3837,"browseable":true},{"tagid":1719,"name":"Comedy","count":3682,"browseable":true},{"tagid":1669,"name":"Moddable","count":3202,"browseable":true},{"tagid":122,"name":"RPG","count":923,"browseable":true}],
+				[],
+				"1_5_9__410",
+				"1_5_9__411",
+				null			);
+		})
+	</script>
+
+</body>
+</html>
